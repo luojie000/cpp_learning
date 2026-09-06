@@ -12,6 +12,38 @@ myvector():start(nullptr),end(nullptr),finish(nullptr)
 {
     _reallocate(1);
 }
+//深拷贝
+myvector(const myvector&other)
+{
+    delete[]start;
+    int size=other.end-other.start;
+    T*data=new T[size];
+    start=data;
+    for(int i=0;i<other.finish;++i)
+    {
+        data[i]=*other.(start+i);
+    }
+    finish=start+other.finish-other.start;
+    end=start+size;
+}
+//深拷贝赋值运算
+myvector&operator=(const myvector&other)
+{
+    if(this!=other)
+    {
+       delete[]start;
+    int size=other.end-other.start;
+    T*data=new T[size];
+    start=data;
+    for(int i=0;i<other.finish;++i)
+    {
+        data[i]=*other.(start+i);
+    }
+    finish=start+other.finish-other.start;
+    end=start+size;
+    }
+    return *this;
+}
 void _reallocate(size_t newcapacity)
 {
     T* newstart=new T[newcapacity];
