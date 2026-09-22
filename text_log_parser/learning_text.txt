@@ -1,0 +1,57 @@
+① ifstream
+std::ifstream file("log.txt");
+
+文件输入。
+
+② getline
+std::getline(file, line);
+
+逐行读取。
+
+③ regex
+std::regex pattern(...);
+
+定义匹配规则。
+
+④ regex_match
+std::regex_match(line, match, pattern);
+
+完整匹配。
+
+⑤ smatch
+match[1]
+match[2]
+match[3]
+
+获取捕获组。
+
+⑥ push_back + move
+logs.push_back(std::move(e));
+
+利用移动语义。
+
+⑦ find_if
+std::find_if(...)
+
+寻找第一个满足条件的元素。
+
+⑧ copy_if
+std::copy_if(...)
+
+筛选所有满足条件的元素。
+
+⑨ sort + Lambda
+std::sort(..., [](const auto& a, const auto& b) {
+    return ...;
+});
+
+自定义排序规则。
+
+⑩ end()
+it == container.end()
+
+表示：
+
+没找到 / 已到范围末尾。
+
+不能解引用。

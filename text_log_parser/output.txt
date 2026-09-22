@@ -1,0 +1,12 @@
+[2026-09-04 10:01:23] [ERROR] Database connection failed
+[2026-09-04 10:01:25] [ERROR] Retry attempt 1 for database connection
+[2026-09-04 10:02:10] [ERROR] Authentication failed for user jdoe: invalid password
+[2026-09-04 10:03:20] [ERROR] Disk space low: only 5% remaining on /dev/sda1
+[2026-09-04 10:04:25] [ERROR] Backup failed: connection timeout to storage server
+[2026-09-04 10:05:42] [ERROR] Timeout
+[2026-09-04 10:05:45] [ERROR] Timeout while calling external API https://api.partner.com/data
+[2026-09-04 10:08:20] [ERROR] Invalid input: missing required field 'email'
+[2026-09-04 10:08:25] [ERROR] Null pointer exception in OrderService.process
+[2026-09-04 10:08:30] [ERROR] Division by zero in calculateDiscount
+[2026-09-04 10:08:35] [ERROR] Stack overflow in recursive parser
+[2026-09-04 10:08:40] [ERROR] Out of memory: Java heap space
