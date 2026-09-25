@@ -3,100 +3,117 @@
 #include<fstream>
 #include<regex>
 #include<vector>
-#include<chrono>
 #include<algorithm>
 #include<iterator>
+#include<chrono>
+#include<stdexcept>
 
 class LogEntry
 {
-    public:
-   std::string timestamp;
-   std::string level;
-   std::string message;
-   LogEntry(const std::string& a,const std::string& b,const std::string& c):timestamp(a),level(b),message(c){}
-   LogEntry()=default;
+public:
+    std::string timestamp;
+    std::string level;
+    std::string message;
+    LogEntry(const std::string& a,const std::string& b,const std::string& c):timestamp(a),level(b),message(c)
+    {}
 };
+
+std::vector<LogEntry> parseLogFile(const std::string& filename)
+{
+    std::vector<LogEntry> logs;
+    std::ifstream file(filename);
+    if(!file.is_open())
+    {
+        throw std::runtime_error("input file cannot open");
+    }
+
+    std::regex pattern(R"(\[([^\]]+)\] \[([^\]]+)\] (.*))");
+//std::regex pattern(R"(\[([\^]]+)\] \[([\^]]+)\] (.*))");
+    std::string line;
+    while(std::getline(file,line))
+    {
+        std::smatch match;
+//std::smatch match;
+//if(regex_match(line,match,pattern))
+
+        if(std::regex_match( line,match,pattern))
+        {
+            logs.emplace_back(match[1].str(),match[2].str(),match[3].str());
+        }
+        else
+        {
+            std::cerr<<"Invalid line: "<<line<<'\n';
+        }
+    }
+    return logs;
+}
+
+//find the errors
+std::vector<LogEntry> findErrors(const std::vector<LogEntry>& logs)
+{
+ std::vector<LogEntry> errors;
+ /*
+ std::copy_if(logs.begin(),logs.end(),back_inserter(errors),[](const logentry&a){
+ return a.level=="erorr"});
+ */
+    std::copy_if(logs.begin(),logs.end(),std::back_inserter(errors),[](const LogEntry& log)
+        {
+return log.level=="ERROR";
+        });
+    return errors;
+}
+
+//sort the logs
+void sortByTime(std::vector<LogEntry>& logs)
+{
+    std::sort(logs.begin(),logs.end(),[](const LogEntry& a,const LogEntry& b)
+        {
+return a.timestamp<b.timestamp;
+        }
+    );
+}
+
+//save the message
+void writeLogs(const std::string& filename,const std::vector<LogEntry>& logs)
+{
+std::ofstream out(filename);
+    if(!out.is_open())
+    {
+throw std::runtime_error("output file cannot open");
+    }
+    for(const auto& log:logs)
+    {
+        out<<"["<<log.timestamp<<"] "
+        <<"["<<log.level<<"] "<<log.message<<'\n';
+    }
+}
 
 int main()
 {
-auto start=std::chrono::steady_clock::now();
-    std::vector<LogEntry> logs;
-    std::ifstream file("log.txt");
-    if(!file.is_open())
-    {
-        std::cerr<<"the file can`t be opened!\n";
-        return 1;
-    }
-     std::cout<<"---------show all the message in text--------"<<std::endl;
-    std::string line;
-     std::regex pattern(R"(\[([^\]]+)\] \[([^\]]+)\] (.*))");
-    //std::regex pattern(R"(\[([^\]]+)\] \[([^\]]+)\] (.*))");
-    
-    std::smatch match;
-    while(getline(file,line))
-    {
-         //正则表达式
+    auto start =std::chrono::steady_clock::now();
+    try{
+        std::vector<LogEntry> logs =
+        parseLogFile("log.txt");
+        std::cout<<"Total logs: "<<logs.size()<<'\n';
 
-if(std::regex_match (line,match,pattern))
-{
-logs.push_back(LogEntry(match[1],match[2],match[3]));
-std::cout<<
-"the hole text is:"<<match[0]<<
-"\n"<<
-"match[1]:"<<match[1]<<"  "<<
-"match[2]:"<<match[2]<<"  "<<
-"match[3]:"<<match[3]<<std::endl;
+        std::vector<LogEntry> errors =findErrors(logs);
+        std::cout<<"ERROR logs: "<<errors.size()<<'\n';
+
+        sortByTime(errors);
+        writeLogs("filtered.log",errors);
+        std::cout<<"Output successfully\n";
     }
-    else
+    catch(const std::exception& e)
     {
-        std::cerr<<"the text is false:"<<line<<std::endl;
+        std::cerr<<"Exception: "<<e.what()<<'\n';
+        return 1;
+
     }
-}
-//find the error
-std::cout<<"\n"<<"----------------find the error---------"<<std::endl;
-std::cout<<"-----find the first 'error'-----"<<std::endl;
-auto it=std::find_if(logs.begin(),logs.end(),[](const LogEntry&a){
-    return a.level=="ERROR";
-});
-if(it!=logs.end())
-{
-    std::cout<<"find successfully :the line is:"<<it->timestamp<<" "<<it->level<<" "<<it->message<<std::endl;
-}
-else
-{
-    std::cout<<"can not find the message"<<std::endl;
-}
-std::cout<<std::endl;
-std::cout<<"--------find all 'error'------------"<<std::endl;
-std::vector<LogEntry> errors;
-std::copy_if(logs.begin(),logs.end(),std::back_inserter(errors),[](const LogEntry&a){
-    return a.level=="ERROR";
-});
-if(errors.empty())
-{
-    std::cout<<"can`t find the message which is error"<<std::endl;
-}
-else{
-    std::sort(errors.begin(),errors.end(),[](const LogEntry&a,const LogEntry&b){
-        return a.timestamp<b.timestamp;
-    });
-    std::cout<<"messages have been sorted"<<std::endl;
-    for(auto &it:errors)
-    {
-         std::cout<<"find successfully: "<<it.timestamp<<" "<<it.level<<" "<<it.message<<std::endl;
-    }
-}
-//save the file
-std::ofstream out("output.txt");
-if(!out.is_open())
-return 1;
-for(auto&line:errors)
-{
-    out<<"["<<line.timestamp<<"] "<<"["<<line.level<<"] "<<line.message<<std::endl;
-}
-auto end=std::chrono::steady_clock::now();
-auto duration=std::chrono::duration_cast<std::chrono::milliseconds>(end-start);
-std::cout<<"\n"<<"-----all time used---------";
-std::cout<<duration.count()<<"ms\n";
+
+    auto end =std::chrono::steady_clock::now();
+    auto duration =std::chrono::duration_cast<std::chrono::milliseconds>( end-start);
+
+    std::cout<<"\n=========== Time ==========\n"<<"Total time: "<<duration.count()<<" ms\n";
     return 0;
+
 }
