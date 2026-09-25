@@ -38,7 +38,7 @@ int main() {
 
     auto start = std::chrono::system_clock::now();
 
-    for (int i = 0; i < 10000; ++i) {
+    for (int i = 0; i < 100000; ++i) {
         auto t = start + std::chrono::seconds(i);
         std::time_t tt = std::chrono::system_clock::to_time_t(t);
         std::tm tm = *std::localtime(&tt);

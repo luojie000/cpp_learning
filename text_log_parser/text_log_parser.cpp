@@ -89,7 +89,7 @@ struct LogStatistics
 class LogParser
 {
 public:
-LogParser(){logs.reserve(100000);}
+LogParser(){logs.reserve(10000);}
     //input the filename
     bool parseline(const std::string &str,LogEntry&entity)
     {
