@@ -1,12 +1,2505 @@
-[2026-09-04 10:01:23] [ERROR] Database connection failed
-[2026-09-04 10:01:25] [ERROR] Retry attempt 1 for database connection
-[2026-09-04 10:02:10] [ERROR] Authentication failed for user jdoe: invalid password
-[2026-09-04 10:03:20] [ERROR] Disk space low: only 5% remaining on /dev/sda1
-[2026-09-04 10:04:25] [ERROR] Backup failed: connection timeout to storage server
-[2026-09-04 10:05:42] [ERROR] Timeout
-[2026-09-04 10:05:45] [ERROR] Timeout while calling external API https://api.partner.com/data
-[2026-09-04 10:08:20] [ERROR] Invalid input: missing required field 'email'
-[2026-09-04 10:08:25] [ERROR] Null pointer exception in OrderService.process
-[2026-09-04 10:08:30] [ERROR] Division by zero in calculateDiscount
-[2026-09-04 10:08:35] [ERROR] Stack overflow in recursive parser
-[2026-09-04 10:08:40] [ERROR] Out of memory: Java heap space
+[2026-09-26 03:47:30] [ERROR] Cache miss
+[2026-09-26 03:47:34] [ERROR] Task completed
+[2026-09-26 03:47:48] [ERROR] Database connection failed
+[2026-09-26 03:47:54] [ERROR] Permission denied
+[2026-09-26 03:47:57] [ERROR] Disk space low
+[2026-09-26 03:47:59] [ERROR] Disk space low
+[2026-09-26 03:48:04] [ERROR] Disk space low
+[2026-09-26 03:48:10] [ERROR] Task completed
+[2026-09-26 03:48:11] [ERROR] Connection reset by peer
+[2026-09-26 03:48:13] [ERROR] Cache miss
+[2026-09-26 03:48:16] [ERROR] Service started
+[2026-09-26 03:48:20] [ERROR] Task completed
+[2026-09-26 03:48:28] [ERROR] Disk space low
+[2026-09-26 03:48:31] [ERROR] Configuration reloaded
+[2026-09-26 03:48:34] [ERROR] Task completed
+[2026-09-26 03:48:41] [ERROR] Database failed
+[2026-09-26 03:48:52] [ERROR] Service started
+[2026-09-26 03:48:53] [ERROR] Request processed
+[2026-09-26 03:49:01] [ERROR] Network timeout
+[2026-09-26 03:49:03] [ERROR] User login successful
+[2026-09-26 03:49:05] [ERROR] Database connection failed
+[2026-09-26 03:49:06] [ERROR] Memory usage high
+[2026-09-26 03:49:09] [ERROR] Request processed
+[2026-09-26 03:49:12] [ERROR] File not found
+[2026-09-26 03:49:14] [ERROR] Connection reset by peer
+[2026-09-26 03:49:15] [ERROR] Cache miss
+[2026-09-26 03:49:24] [ERROR] Task completed
+[2026-09-26 03:49:51] [ERROR] User login successful
+[2026-09-26 03:49:54] [ERROR] Disk space low
+[2026-09-26 03:50:04] [ERROR] Database connection failed
+[2026-09-26 03:50:10] [ERROR] User login successful
+[2026-09-26 03:50:11] [ERROR] Task completed
+[2026-09-26 03:50:20] [ERROR] Authentication failed
+[2026-09-26 03:50:23] [ERROR] Cache miss
+[2026-09-26 03:50:27] [ERROR] Authentication failed
+[2026-09-26 03:50:30] [ERROR] Permission denied
+[2026-09-26 03:50:42] [ERROR] Authentication failed
+[2026-09-26 03:50:56] [ERROR] Permission denied
+[2026-09-26 03:51:00] [ERROR] Authentication failed
+[2026-09-26 03:51:04] [ERROR] User login successful
+[2026-09-26 03:51:09] [ERROR] Task completed
+[2026-09-26 03:51:12] [ERROR] Network timeout
+[2026-09-26 03:51:17] [ERROR] Service started
+[2026-09-26 03:51:18] [ERROR] Database failed
+[2026-09-26 03:51:25] [ERROR] Cache miss
+[2026-09-26 03:51:33] [ERROR] Network timeout
+[2026-09-26 03:51:39] [ERROR] Service started
+[2026-09-26 03:51:42] [ERROR] Network timeout
+[2026-09-26 03:51:49] [ERROR] Permission denied
+[2026-09-26 03:51:51] [ERROR] Task completed
+[2026-09-26 03:51:53] [ERROR] Task completed
+[2026-09-26 03:51:56] [ERROR] Disk space low
+[2026-09-26 03:51:57] [ERROR] Memory usage high
+[2026-09-26 03:51:58] [ERROR] Database connection failed
+[2026-09-26 03:52:03] [ERROR] Task completed
+[2026-09-26 03:52:13] [ERROR] Service started
+[2026-09-26 03:52:19] [ERROR] Network timeout
+[2026-09-26 03:52:20] [ERROR] Authentication failed
+[2026-09-26 03:52:22] [ERROR] Cache miss
+[2026-09-26 03:52:33] [ERROR] Memory usage high
+[2026-09-26 03:52:35] [ERROR] Connection reset by peer
+[2026-09-26 03:52:38] [ERROR] Permission denied
+[2026-09-26 03:52:39] [ERROR] Task completed
+[2026-09-26 03:52:40] [ERROR] File not found
+[2026-09-26 03:52:43] [ERROR] Connection reset by peer
+[2026-09-26 03:52:44] [ERROR] Network timeout
+[2026-09-26 03:52:45] [ERROR] Database connection failed
+[2026-09-26 03:52:46] [ERROR] Request processed
+[2026-09-26 03:52:47] [ERROR] Configuration reloaded
+[2026-09-26 03:52:48] [ERROR] Permission denied
+[2026-09-26 03:52:49] [ERROR] Task completed
+[2026-09-26 03:52:52] [ERROR] Connection reset by peer
+[2026-09-26 03:52:53] [ERROR] Configuration reloaded
+[2026-09-26 03:52:56] [ERROR] Memory usage high
+[2026-09-26 03:52:57] [ERROR] Cache miss
+[2026-09-26 03:52:58] [ERROR] Database connection failed
+[2026-09-26 03:52:59] [ERROR] Task completed
+[2026-09-26 03:53:00] [ERROR] Disk space low
+[2026-09-26 03:53:01] [ERROR] Memory usage high
+[2026-09-26 03:53:04] [ERROR] Task completed
+[2026-09-26 03:53:10] [ERROR] Memory usage high
+[2026-09-26 03:53:11] [ERROR] Service started
+[2026-09-26 03:53:15] [ERROR] Task completed
+[2026-09-26 03:53:18] [ERROR] Memory usage high
+[2026-09-26 03:53:19] [ERROR] Authentication failed
+[2026-09-26 03:53:21] [ERROR] Database connection failed
+[2026-09-26 03:53:24] [ERROR] Cache miss
+[2026-09-26 03:53:25] [ERROR] Configuration reloaded
+[2026-09-26 03:53:27] [ERROR] Authentication failed
+[2026-09-26 03:53:28] [ERROR] Connection reset by peer
+[2026-09-26 03:53:41] [ERROR] Disk space low
+[2026-09-26 03:53:42] [ERROR] User login successful
+[2026-09-26 03:53:46] [ERROR] Memory usage high
+[2026-09-26 03:53:48] [ERROR] Task completed
+[2026-09-26 03:53:49] [ERROR] User login successful
+[2026-09-26 03:53:50] [ERROR] Request processed
+[2026-09-26 03:53:54] [ERROR] User login successful
+[2026-09-26 03:54:02] [ERROR] Configuration reloaded
+[2026-09-26 03:54:05] [ERROR] Database failed
+[2026-09-26 03:54:06] [ERROR] Configuration reloaded
+[2026-09-26 03:54:14] [ERROR] Cache miss
+[2026-09-26 03:54:16] [ERROR] File not found
+[2026-09-26 03:54:20] [ERROR] Configuration reloaded
+[2026-09-26 03:54:22] [ERROR] Service started
+[2026-09-26 03:54:34] [ERROR] Memory usage high
+[2026-09-26 03:54:35] [ERROR] User login successful
+[2026-09-26 03:54:48] [ERROR] Service started
+[2026-09-26 03:54:52] [ERROR] Database connection failed
+[2026-09-26 03:54:53] [ERROR] Task completed
+[2026-09-26 03:54:56] [ERROR] Disk space low
+[2026-09-26 03:54:58] [ERROR] Permission denied
+[2026-09-26 03:55:00] [ERROR] Configuration reloaded
+[2026-09-26 03:55:07] [ERROR] Cache miss
+[2026-09-26 03:55:12] [ERROR] Cache miss
+[2026-09-26 03:55:14] [ERROR] Authentication failed
+[2026-09-26 03:55:18] [ERROR] Network timeout
+[2026-09-26 03:55:20] [ERROR] Database failed
+[2026-09-26 03:55:21] [ERROR] Service started
+[2026-09-26 03:55:22] [ERROR] Network timeout
+[2026-09-26 03:55:25] [ERROR] Cache miss
+[2026-09-26 03:55:28] [ERROR] User login successful
+[2026-09-26 03:55:33] [ERROR] Database failed
+[2026-09-26 03:55:37] [ERROR] Authentication failed
+[2026-09-26 03:55:39] [ERROR] User login successful
+[2026-09-26 03:55:40] [ERROR] User login successful
+[2026-09-26 03:55:43] [ERROR] Database connection failed
+[2026-09-26 03:55:44] [ERROR] Request processed
+[2026-09-26 03:55:47] [ERROR] Database failed
+[2026-09-26 03:55:48] [ERROR] Connection reset by peer
+[2026-09-26 03:55:49] [ERROR] Permission denied
+[2026-09-26 03:55:53] [ERROR] Permission denied
+[2026-09-26 03:55:54] [ERROR] User login successful
+[2026-09-26 03:55:55] [ERROR] Authentication failed
+[2026-09-26 03:55:56] [ERROR] Memory usage high
+[2026-09-26 03:56:01] [ERROR] Disk space low
+[2026-09-26 03:56:02] [ERROR] File not found
+[2026-09-26 03:56:04] [ERROR] Authentication failed
+[2026-09-26 03:56:05] [ERROR] Authentication failed
+[2026-09-26 03:56:13] [ERROR] Request processed
+[2026-09-26 03:56:22] [ERROR] Connection reset by peer
+[2026-09-26 03:56:23] [ERROR] Disk space low
+[2026-09-26 03:56:27] [ERROR] Request processed
+[2026-09-26 03:56:33] [ERROR] Service started
+[2026-09-26 03:56:36] [ERROR] Permission denied
+[2026-09-26 03:56:43] [ERROR] Disk space low
+[2026-09-26 03:56:46] [ERROR] Configuration reloaded
+[2026-09-26 03:56:47] [ERROR] Cache miss
+[2026-09-26 03:56:52] [ERROR] Request processed
+[2026-09-26 03:56:53] [ERROR] Database failed
+[2026-09-26 03:56:56] [ERROR] Request processed
+[2026-09-26 03:57:04] [ERROR] Permission denied
+[2026-09-26 03:57:08] [ERROR] Configuration reloaded
+[2026-09-26 03:57:09] [ERROR] User login successful
+[2026-09-26 03:57:17] [ERROR] Network timeout
+[2026-09-26 03:57:18] [ERROR] Task completed
+[2026-09-26 03:57:21] [ERROR] Permission denied
+[2026-09-26 03:57:22] [ERROR] Configuration reloaded
+[2026-09-26 03:57:28] [ERROR] Cache miss
+[2026-09-26 03:57:32] [ERROR] Database failed
+[2026-09-26 03:57:34] [ERROR] Memory usage high
+[2026-09-26 03:57:42] [ERROR] Network timeout
+[2026-09-26 03:57:46] [ERROR] Network timeout
+[2026-09-26 03:57:47] [ERROR] Disk space low
+[2026-09-26 03:57:53] [ERROR] Permission denied
+[2026-09-26 03:57:59] [ERROR] Service started
+[2026-09-26 03:58:01] [ERROR] Network timeout
+[2026-09-26 03:58:05] [ERROR] File not found
+[2026-09-26 03:58:06] [ERROR] Network timeout
+[2026-09-26 03:58:25] [ERROR] Cache miss
+[2026-09-26 03:58:33] [ERROR] User login successful
+[2026-09-26 03:58:50] [ERROR] Connection reset by peer
+[2026-09-26 03:58:54] [ERROR] Configuration reloaded
+[2026-09-26 03:58:55] [ERROR] Database connection failed
+[2026-09-26 03:58:58] [ERROR] Authentication failed
+[2026-09-26 03:59:06] [ERROR] Memory usage high
+[2026-09-26 03:59:11] [ERROR] File not found
+[2026-09-26 03:59:12] [ERROR] Authentication failed
+[2026-09-26 03:59:22] [ERROR] Memory usage high
+[2026-09-26 03:59:24] [ERROR] File not found
+[2026-09-26 03:59:27] [ERROR] Configuration reloaded
+[2026-09-26 03:59:32] [ERROR] Permission denied
+[2026-09-26 03:59:33] [ERROR] Permission denied
+[2026-09-26 03:59:35] [ERROR] Cache miss
+[2026-09-26 03:59:36] [ERROR] Service started
+[2026-09-26 03:59:42] [ERROR] Disk space low
+[2026-09-26 03:59:44] [ERROR] File not found
+[2026-09-26 03:59:45] [ERROR] Permission denied
+[2026-09-26 03:59:53] [ERROR] Database connection failed
+[2026-09-26 03:59:54] [ERROR] Task completed
+[2026-09-26 03:59:58] [ERROR] Permission denied
+[2026-09-26 04:00:00] [ERROR] Cache miss
+[2026-09-26 04:00:02] [ERROR] File not found
+[2026-09-26 04:00:03] [ERROR] User login successful
+[2026-09-26 04:00:04] [ERROR] Network timeout
+[2026-09-26 04:00:06] [ERROR] Disk space low
+[2026-09-26 04:00:08] [ERROR] Connection reset by peer
+[2026-09-26 04:00:12] [ERROR] Memory usage high
+[2026-09-26 04:00:34] [ERROR] Permission denied
+[2026-09-26 04:00:35] [ERROR] File not found
+[2026-09-26 04:00:56] [ERROR] Permission denied
+[2026-09-26 04:01:05] [ERROR] Disk space low
+[2026-09-26 04:01:07] [ERROR] Database connection failed
+[2026-09-26 04:01:09] [ERROR] Database connection failed
+[2026-09-26 04:01:16] [ERROR] Network timeout
+[2026-09-26 04:01:20] [ERROR] User login successful
+[2026-09-26 04:01:21] [ERROR] Task completed
+[2026-09-26 04:01:30] [ERROR] Authentication failed
+[2026-09-26 04:01:32] [ERROR] Authentication failed
+[2026-09-26 04:01:37] [ERROR] Memory usage high
+[2026-09-26 04:01:39] [ERROR] Memory usage high
+[2026-09-26 04:01:41] [ERROR] Permission denied
+[2026-09-26 04:01:42] [ERROR] Network timeout
+[2026-09-26 04:01:44] [ERROR] Disk space low
+[2026-09-26 04:01:53] [ERROR] Memory usage high
+[2026-09-26 04:02:01] [ERROR] User login successful
+[2026-09-26 04:02:09] [ERROR] Database failed
+[2026-09-26 04:02:11] [ERROR] Connection reset by peer
+[2026-09-26 04:02:17] [ERROR] Task completed
+[2026-09-26 04:02:18] [ERROR] Permission denied
+[2026-09-26 04:02:24] [ERROR] User login successful
+[2026-09-26 04:02:25] [ERROR] Authentication failed
+[2026-09-26 04:02:27] [ERROR] Connection reset by peer
+[2026-09-26 04:02:28] [ERROR] Memory usage high
+[2026-09-26 04:02:29] [ERROR] File not found
+[2026-09-26 04:02:32] [ERROR] Connection reset by peer
+[2026-09-26 04:02:35] [ERROR] Connection reset by peer
+[2026-09-26 04:02:36] [ERROR] User login successful
+[2026-09-26 04:02:40] [ERROR] Connection reset by peer
+[2026-09-26 04:02:41] [ERROR] Network timeout
+[2026-09-26 04:02:43] [ERROR] Memory usage high
+[2026-09-26 04:02:44] [ERROR] Database connection failed
+[2026-09-26 04:02:49] [ERROR] Database failed
+[2026-09-26 04:02:50] [ERROR] Connection reset by peer
+[2026-09-26 04:02:51] [ERROR] Permission denied
+[2026-09-26 04:02:52] [ERROR] Memory usage high
+[2026-09-26 04:02:53] [ERROR] Disk space low
+[2026-09-26 04:02:56] [ERROR] Memory usage high
+[2026-09-26 04:02:58] [ERROR] Task completed
+[2026-09-26 04:03:01] [ERROR] User login successful
+[2026-09-26 04:03:05] [ERROR] Database failed
+[2026-09-26 04:03:08] [ERROR] Network timeout
+[2026-09-26 04:03:11] [ERROR] Permission denied
+[2026-09-26 04:03:16] [ERROR] Disk space low
+[2026-09-26 04:03:19] [ERROR] Memory usage high
+[2026-09-26 04:03:21] [ERROR] Service started
+[2026-09-26 04:03:22] [ERROR] Permission denied
+[2026-09-26 04:03:25] [ERROR] Connection reset by peer
+[2026-09-26 04:03:26] [ERROR] Memory usage high
+[2026-09-26 04:03:28] [ERROR] Disk space low
+[2026-09-26 04:03:29] [ERROR] Database failed
+[2026-09-26 04:03:32] [ERROR] Service started
+[2026-09-26 04:03:33] [ERROR] Database failed
+[2026-09-26 04:03:37] [ERROR] Task completed
+[2026-09-26 04:03:38] [ERROR] Database connection failed
+[2026-09-26 04:03:39] [ERROR] File not found
+[2026-09-26 04:03:47] [ERROR] Request processed
+[2026-09-26 04:03:48] [ERROR] Connection reset by peer
+[2026-09-26 04:03:50] [ERROR] Cache miss
+[2026-09-26 04:03:53] [ERROR] Service started
+[2026-09-26 04:03:54] [ERROR] Configuration reloaded
+[2026-09-26 04:03:58] [ERROR] Service started
+[2026-09-26 04:04:01] [ERROR] Cache miss
+[2026-09-26 04:04:06] [ERROR] Memory usage high
+[2026-09-26 04:04:09] [ERROR] File not found
+[2026-09-26 04:04:21] [ERROR] Disk space low
+[2026-09-26 04:04:26] [ERROR] Database connection failed
+[2026-09-26 04:04:31] [ERROR] Request processed
+[2026-09-26 04:04:37] [ERROR] User login successful
+[2026-09-26 04:04:47] [ERROR] File not found
+[2026-09-26 04:04:51] [ERROR] User login successful
+[2026-09-26 04:05:11] [ERROR] Network timeout
+[2026-09-26 04:05:18] [ERROR] Memory usage high
+[2026-09-26 04:05:20] [ERROR] Request processed
+[2026-09-26 04:05:27] [ERROR] User login successful
+[2026-09-26 04:05:31] [ERROR] Cache miss
+[2026-09-26 04:05:52] [ERROR] Request processed
+[2026-09-26 04:05:53] [ERROR] Authentication failed
+[2026-09-26 04:05:55] [ERROR] Service started
+[2026-09-26 04:05:57] [ERROR] Service started
+[2026-09-26 04:06:00] [ERROR] Request processed
+[2026-09-26 04:06:01] [ERROR] File not found
+[2026-09-26 04:06:02] [ERROR] Cache miss
+[2026-09-26 04:06:07] [ERROR] Permission denied
+[2026-09-26 04:06:17] [ERROR] Authentication failed
+[2026-09-26 04:06:22] [ERROR] Authentication failed
+[2026-09-26 04:06:24] [ERROR] Connection reset by peer
+[2026-09-26 04:06:26] [ERROR] Service started
+[2026-09-26 04:06:27] [ERROR] Configuration reloaded
+[2026-09-26 04:06:31] [ERROR] Configuration reloaded
+[2026-09-26 04:06:34] [ERROR] Disk space low
+[2026-09-26 04:06:37] [ERROR] Task completed
+[2026-09-26 04:06:38] [ERROR] Memory usage high
+[2026-09-26 04:06:40] [ERROR] Database failed
+[2026-09-26 04:06:46] [ERROR] File not found
+[2026-09-26 04:06:47] [ERROR] Permission denied
+[2026-09-26 04:06:49] [ERROR] Request processed
+[2026-09-26 04:06:51] [ERROR] Connection reset by peer
+[2026-09-26 04:06:56] [ERROR] Authentication failed
+[2026-09-26 04:06:57] [ERROR] Cache miss
+[2026-09-26 04:07:01] [ERROR] Memory usage high
+[2026-09-26 04:07:12] [ERROR] Network timeout
+[2026-09-26 04:07:15] [ERROR] Memory usage high
+[2026-09-26 04:07:16] [ERROR] Configuration reloaded
+[2026-09-26 04:07:19] [ERROR] Disk space low
+[2026-09-26 04:07:20] [ERROR] Task completed
+[2026-09-26 04:07:26] [ERROR] Database failed
+[2026-09-26 04:07:30] [ERROR] User login successful
+[2026-09-26 04:07:34] [ERROR] Authentication failed
+[2026-09-26 04:07:36] [ERROR] Connection reset by peer
+[2026-09-26 04:07:37] [ERROR] Cache miss
+[2026-09-26 04:07:38] [ERROR] Task completed
+[2026-09-26 04:07:42] [ERROR] Disk space low
+[2026-09-26 04:07:43] [ERROR] Request processed
+[2026-09-26 04:07:46] [ERROR] Request processed
+[2026-09-26 04:07:48] [ERROR] Authentication failed
+[2026-09-26 04:07:49] [ERROR] Database connection failed
+[2026-09-26 04:07:50] [ERROR] Authentication failed
+[2026-09-26 04:07:56] [ERROR] Database connection failed
+[2026-09-26 04:08:04] [ERROR] Request processed
+[2026-09-26 04:08:12] [ERROR] Service started
+[2026-09-26 04:08:16] [ERROR] Connection reset by peer
+[2026-09-26 04:08:24] [ERROR] Disk space low
+[2026-09-26 04:08:31] [ERROR] Service started
+[2026-09-26 04:08:33] [ERROR] Network timeout
+[2026-09-26 04:08:37] [ERROR] Database failed
+[2026-09-26 04:08:41] [ERROR] Memory usage high
+[2026-09-26 04:08:44] [ERROR] Task completed
+[2026-09-26 04:08:50] [ERROR] Memory usage high
+[2026-09-26 04:09:09] [ERROR] Configuration reloaded
+[2026-09-26 04:09:14] [ERROR] Configuration reloaded
+[2026-09-26 04:09:15] [ERROR] Disk space low
+[2026-09-26 04:09:25] [ERROR] Network timeout
+[2026-09-26 04:09:27] [ERROR] Request processed
+[2026-09-26 04:09:35] [ERROR] Network timeout
+[2026-09-26 04:09:36] [ERROR] Request processed
+[2026-09-26 04:09:39] [ERROR] Network timeout
+[2026-09-26 04:09:46] [ERROR] Connection reset by peer
+[2026-09-26 04:09:49] [ERROR] Memory usage high
+[2026-09-26 04:09:54] [ERROR] File not found
+[2026-09-26 04:09:55] [ERROR] Disk space low
+[2026-09-26 04:09:59] [ERROR] Service started
+[2026-09-26 04:10:01] [ERROR] Disk space low
+[2026-09-26 04:10:05] [ERROR] Database connection failed
+[2026-09-26 04:10:11] [ERROR] User login successful
+[2026-09-26 04:10:46] [ERROR] Memory usage high
+[2026-09-26 04:10:48] [ERROR] Authentication failed
+[2026-09-26 04:10:49] [ERROR] Database failed
+[2026-09-26 04:10:50] [ERROR] Disk space low
+[2026-09-26 04:10:52] [ERROR] User login successful
+[2026-09-26 04:10:59] [ERROR] Request processed
+[2026-09-26 04:11:01] [ERROR] User login successful
+[2026-09-26 04:11:08] [ERROR] User login successful
+[2026-09-26 04:11:10] [ERROR] Cache miss
+[2026-09-26 04:11:13] [ERROR] Authentication failed
+[2026-09-26 04:11:14] [ERROR] Task completed
+[2026-09-26 04:11:19] [ERROR] Task completed
+[2026-09-26 04:11:21] [ERROR] Network timeout
+[2026-09-26 04:11:30] [ERROR] Database failed
+[2026-09-26 04:11:33] [ERROR] Task completed
+[2026-09-26 04:11:41] [ERROR] Database failed
+[2026-09-26 04:11:45] [ERROR] User login successful
+[2026-09-26 04:11:47] [ERROR] Disk space low
+[2026-09-26 04:11:50] [ERROR] Database failed
+[2026-09-26 04:11:53] [ERROR] Connection reset by peer
+[2026-09-26 04:11:55] [ERROR] User login successful
+[2026-09-26 04:12:01] [ERROR] Network timeout
+[2026-09-26 04:12:05] [ERROR] Connection reset by peer
+[2026-09-26 04:12:14] [ERROR] Database failed
+[2026-09-26 04:12:17] [ERROR] Authentication failed
+[2026-09-26 04:12:19] [ERROR] Cache miss
+[2026-09-26 04:12:21] [ERROR] Authentication failed
+[2026-09-26 04:12:29] [ERROR] Connection reset by peer
+[2026-09-26 04:12:30] [ERROR] File not found
+[2026-09-26 04:12:35] [ERROR] Connection reset by peer
+[2026-09-26 04:12:39] [ERROR] Database connection failed
+[2026-09-26 04:12:45] [ERROR] Disk space low
+[2026-09-26 04:12:47] [ERROR] Task completed
+[2026-09-26 04:12:49] [ERROR] Authentication failed
+[2026-09-26 04:12:54] [ERROR] Service started
+[2026-09-26 04:12:55] [ERROR] Connection reset by peer
+[2026-09-26 04:12:56] [ERROR] Database failed
+[2026-09-26 04:12:57] [ERROR] Permission denied
+[2026-09-26 04:12:58] [ERROR] Network timeout
+[2026-09-26 04:13:05] [ERROR] Service started
+[2026-09-26 04:13:07] [ERROR] Cache miss
+[2026-09-26 04:13:11] [ERROR] Service started
+[2026-09-26 04:13:12] [ERROR] Task completed
+[2026-09-26 04:13:30] [ERROR] User login successful
+[2026-09-26 04:13:36] [ERROR] Authentication failed
+[2026-09-26 04:13:41] [ERROR] Memory usage high
+[2026-09-26 04:13:48] [ERROR] Connection reset by peer
+[2026-09-26 04:13:49] [ERROR] Permission denied
+[2026-09-26 04:13:50] [ERROR] Request processed
+[2026-09-26 04:13:51] [ERROR] Task completed
+[2026-09-26 04:13:52] [ERROR] Database connection failed
+[2026-09-26 04:14:02] [ERROR] Database failed
+[2026-09-26 04:14:18] [ERROR] Configuration reloaded
+[2026-09-26 04:14:27] [ERROR] Memory usage high
+[2026-09-26 04:14:28] [ERROR] Permission denied
+[2026-09-26 04:14:31] [ERROR] Cache miss
+[2026-09-26 04:14:38] [ERROR] Task completed
+[2026-09-26 04:14:39] [ERROR] Service started
+[2026-09-26 04:14:42] [ERROR] User login successful
+[2026-09-26 04:14:44] [ERROR] Connection reset by peer
+[2026-09-26 04:14:46] [ERROR] Connection reset by peer
+[2026-09-26 04:14:47] [ERROR] Database connection failed
+[2026-09-26 04:14:52] [ERROR] Memory usage high
+[2026-09-26 04:14:56] [ERROR] Request processed
+[2026-09-26 04:14:57] [ERROR] Permission denied
+[2026-09-26 04:14:58] [ERROR] Database connection failed
+[2026-09-26 04:15:01] [ERROR] Authentication failed
+[2026-09-26 04:15:05] [ERROR] Disk space low
+[2026-09-26 04:15:14] [ERROR] Cache miss
+[2026-09-26 04:15:18] [ERROR] Database connection failed
+[2026-09-26 04:15:21] [ERROR] Connection reset by peer
+[2026-09-26 04:15:23] [ERROR] Service started
+[2026-09-26 04:15:24] [ERROR] Network timeout
+[2026-09-26 04:15:28] [ERROR] Database failed
+[2026-09-26 04:15:30] [ERROR] Task completed
+[2026-09-26 04:15:31] [ERROR] Network timeout
+[2026-09-26 04:15:35] [ERROR] Configuration reloaded
+[2026-09-26 04:15:41] [ERROR] Request processed
+[2026-09-26 04:15:43] [ERROR] Connection reset by peer
+[2026-09-26 04:15:50] [ERROR] File not found
+[2026-09-26 04:15:55] [ERROR] Request processed
+[2026-09-26 04:16:04] [ERROR] Configuration reloaded
+[2026-09-26 04:16:08] [ERROR] Connection reset by peer
+[2026-09-26 04:16:11] [ERROR] Permission denied
+[2026-09-26 04:16:14] [ERROR] Service started
+[2026-09-26 04:16:17] [ERROR] Task completed
+[2026-09-26 04:16:19] [ERROR] Disk space low
+[2026-09-26 04:16:28] [ERROR] Database connection failed
+[2026-09-26 04:16:29] [ERROR] Database failed
+[2026-09-26 04:16:32] [ERROR] Configuration reloaded
+[2026-09-26 04:16:34] [ERROR] Permission denied
+[2026-09-26 04:16:36] [ERROR] File not found
+[2026-09-26 04:16:38] [ERROR] Authentication failed
+[2026-09-26 04:16:43] [ERROR] Request processed
+[2026-09-26 04:16:49] [ERROR] Disk space low
+[2026-09-26 04:16:50] [ERROR] Database failed
+[2026-09-26 04:16:59] [ERROR] Network timeout
+[2026-09-26 04:17:01] [ERROR] Task completed
+[2026-09-26 04:17:05] [ERROR] Configuration reloaded
+[2026-09-26 04:17:09] [ERROR] Memory usage high
+[2026-09-26 04:17:10] [ERROR] Service started
+[2026-09-26 04:17:11] [ERROR] Authentication failed
+[2026-09-26 04:17:14] [ERROR] Memory usage high
+[2026-09-26 04:17:16] [ERROR] File not found
+[2026-09-26 04:17:17] [ERROR] Service started
+[2026-09-26 04:17:27] [ERROR] Connection reset by peer
+[2026-09-26 04:17:28] [ERROR] Task completed
+[2026-09-26 04:17:32] [ERROR] Authentication failed
+[2026-09-26 04:17:35] [ERROR] File not found
+[2026-09-26 04:17:42] [ERROR] Database failed
+[2026-09-26 04:17:48] [ERROR] Network timeout
+[2026-09-26 04:17:49] [ERROR] Cache miss
+[2026-09-26 04:17:58] [ERROR] User login successful
+[2026-09-26 04:18:03] [ERROR] Memory usage high
+[2026-09-26 04:18:11] [ERROR] Disk space low
+[2026-09-26 04:18:14] [ERROR] Request processed
+[2026-09-26 04:18:18] [ERROR] Cache miss
+[2026-09-26 04:18:19] [ERROR] Network timeout
+[2026-09-26 04:18:22] [ERROR] Database connection failed
+[2026-09-26 04:18:27] [ERROR] Authentication failed
+[2026-09-26 04:18:30] [ERROR] Database connection failed
+[2026-09-26 04:18:32] [ERROR] User login successful
+[2026-09-26 04:18:33] [ERROR] Request processed
+[2026-09-26 04:18:38] [ERROR] Database failed
+[2026-09-26 04:18:40] [ERROR] Disk space low
+[2026-09-26 04:18:41] [ERROR] User login successful
+[2026-09-26 04:18:42] [ERROR] Memory usage high
+[2026-09-26 04:18:43] [ERROR] Permission denied
+[2026-09-26 04:18:46] [ERROR] Database connection failed
+[2026-09-26 04:18:49] [ERROR] Permission denied
+[2026-09-26 04:18:50] [ERROR] Request processed
+[2026-09-26 04:18:52] [ERROR] Authentication failed
+[2026-09-26 04:18:55] [ERROR] Disk space low
+[2026-09-26 04:18:57] [ERROR] Connection reset by peer
+[2026-09-26 04:18:59] [ERROR] Database connection failed
+[2026-09-26 04:19:02] [ERROR] Connection reset by peer
+[2026-09-26 04:19:04] [ERROR] Cache miss
+[2026-09-26 04:19:06] [ERROR] File not found
+[2026-09-26 04:19:09] [ERROR] Database failed
+[2026-09-26 04:19:10] [ERROR] Service started
+[2026-09-26 04:19:15] [ERROR] User login successful
+[2026-09-26 04:19:21] [ERROR] Request processed
+[2026-09-26 04:19:24] [ERROR] Configuration reloaded
+[2026-09-26 04:19:30] [ERROR] User login successful
+[2026-09-26 04:19:31] [ERROR] Permission denied
+[2026-09-26 04:19:42] [ERROR] Authentication failed
+[2026-09-26 04:19:43] [ERROR] Permission denied
+[2026-09-26 04:19:45] [ERROR] Configuration reloaded
+[2026-09-26 04:19:48] [ERROR] Task completed
+[2026-09-26 04:19:49] [ERROR] Disk space low
+[2026-09-26 04:19:53] [ERROR] Authentication failed
+[2026-09-26 04:19:54] [ERROR] Cache miss
+[2026-09-26 04:19:59] [ERROR] File not found
+[2026-09-26 04:20:13] [ERROR] Cache miss
+[2026-09-26 04:20:18] [ERROR] Cache miss
+[2026-09-26 04:20:26] [ERROR] Task completed
+[2026-09-26 04:20:28] [ERROR] Database failed
+[2026-09-26 04:20:29] [ERROR] Network timeout
+[2026-09-26 04:20:36] [ERROR] Disk space low
+[2026-09-26 04:20:39] [ERROR] Database connection failed
+[2026-09-26 04:20:40] [ERROR] Disk space low
+[2026-09-26 04:20:47] [ERROR] Cache miss
+[2026-09-26 04:20:49] [ERROR] Authentication failed
+[2026-09-26 04:20:51] [ERROR] Disk space low
+[2026-09-26 04:20:53] [ERROR] User login successful
+[2026-09-26 04:20:54] [ERROR] Cache miss
+[2026-09-26 04:20:57] [ERROR] Permission denied
+[2026-09-26 04:20:58] [ERROR] User login successful
+[2026-09-26 04:20:59] [ERROR] Task completed
+[2026-09-26 04:21:01] [ERROR] Authentication failed
+[2026-09-26 04:21:04] [ERROR] Configuration reloaded
+[2026-09-26 04:21:08] [ERROR] Network timeout
+[2026-09-26 04:21:13] [ERROR] Database connection failed
+[2026-09-26 04:21:14] [ERROR] Connection reset by peer
+[2026-09-26 04:21:15] [ERROR] User login successful
+[2026-09-26 04:21:21] [ERROR] Network timeout
+[2026-09-26 04:21:22] [ERROR] Database failed
+[2026-09-26 04:21:27] [ERROR] User login successful
+[2026-09-26 04:21:31] [ERROR] File not found
+[2026-09-26 04:21:34] [ERROR] Authentication failed
+[2026-09-26 04:21:36] [ERROR] File not found
+[2026-09-26 04:21:38] [ERROR] File not found
+[2026-09-26 04:21:47] [ERROR] Permission denied
+[2026-09-26 04:21:49] [ERROR] Network timeout
+[2026-09-26 04:21:52] [ERROR] Connection reset by peer
+[2026-09-26 04:22:08] [ERROR] Database connection failed
+[2026-09-26 04:22:14] [ERROR] Configuration reloaded
+[2026-09-26 04:22:20] [ERROR] Task completed
+[2026-09-26 04:22:21] [ERROR] Disk space low
+[2026-09-26 04:22:28] [ERROR] Configuration reloaded
+[2026-09-26 04:22:29] [ERROR] Authentication failed
+[2026-09-26 04:22:32] [ERROR] Memory usage high
+[2026-09-26 04:22:33] [ERROR] User login successful
+[2026-09-26 04:22:39] [ERROR] Permission denied
+[2026-09-26 04:22:50] [ERROR] Cache miss
+[2026-09-26 04:22:51] [ERROR] Memory usage high
+[2026-09-26 04:22:53] [ERROR] Authentication failed
+[2026-09-26 04:22:59] [ERROR] Task completed
+[2026-09-26 04:23:03] [ERROR] Cache miss
+[2026-09-26 04:23:08] [ERROR] Memory usage high
+[2026-09-26 04:23:11] [ERROR] Memory usage high
+[2026-09-26 04:23:14] [ERROR] Database connection failed
+[2026-09-26 04:23:20] [ERROR] Service started
+[2026-09-26 04:23:21] [ERROR] Disk space low
+[2026-09-26 04:23:24] [ERROR] Database connection failed
+[2026-09-26 04:23:25] [ERROR] Database failed
+[2026-09-26 04:23:31] [ERROR] Database connection failed
+[2026-09-26 04:23:34] [ERROR] Connection reset by peer
+[2026-09-26 04:23:38] [ERROR] Task completed
+[2026-09-26 04:23:39] [ERROR] Configuration reloaded
+[2026-09-26 04:23:46] [ERROR] Network timeout
+[2026-09-26 04:23:55] [ERROR] Request processed
+[2026-09-26 04:23:57] [ERROR] Connection reset by peer
+[2026-09-26 04:23:59] [ERROR] Network timeout
+[2026-09-26 04:24:07] [ERROR] Service started
+[2026-09-26 04:24:13] [ERROR] Cache miss
+[2026-09-26 04:24:16] [ERROR] Database connection failed
+[2026-09-26 04:24:17] [ERROR] Cache miss
+[2026-09-26 04:24:22] [ERROR] Network timeout
+[2026-09-26 04:24:24] [ERROR] Configuration reloaded
+[2026-09-26 04:24:39] [ERROR] Memory usage high
+[2026-09-26 04:24:57] [ERROR] Connection reset by peer
+[2026-09-26 04:25:05] [ERROR] User login successful
+[2026-09-26 04:25:11] [ERROR] Database failed
+[2026-09-26 04:25:15] [ERROR] Network timeout
+[2026-09-26 04:25:34] [ERROR] Configuration reloaded
+[2026-09-26 04:25:36] [ERROR] Request processed
+[2026-09-26 04:25:40] [ERROR] Memory usage high
+[2026-09-26 04:25:43] [ERROR] Authentication failed
+[2026-09-26 04:25:49] [ERROR] Task completed
+[2026-09-26 04:25:51] [ERROR] User login successful
+[2026-09-26 04:25:53] [ERROR] Disk space low
+[2026-09-26 04:25:57] [ERROR] Authentication failed
+[2026-09-26 04:25:58] [ERROR] Memory usage high
+[2026-09-26 04:26:01] [ERROR] Disk space low
+[2026-09-26 04:26:02] [ERROR] Authentication failed
+[2026-09-26 04:26:04] [ERROR] Memory usage high
+[2026-09-26 04:26:06] [ERROR] File not found
+[2026-09-26 04:26:07] [ERROR] Permission denied
+[2026-09-26 04:26:18] [ERROR] Database failed
+[2026-09-26 04:26:23] [ERROR] Authentication failed
+[2026-09-26 04:26:27] [ERROR] Authentication failed
+[2026-09-26 04:26:39] [ERROR] Connection reset by peer
+[2026-09-26 04:26:45] [ERROR] File not found
+[2026-09-26 04:26:46] [ERROR] Database failed
+[2026-09-26 04:26:58] [ERROR] Network timeout
+[2026-09-26 04:26:59] [ERROR] Request processed
+[2026-09-26 04:27:05] [ERROR] Memory usage high
+[2026-09-26 04:27:09] [ERROR] Service started
+[2026-09-26 04:27:11] [ERROR] Permission denied
+[2026-09-26 04:27:14] [ERROR] Configuration reloaded
+[2026-09-26 04:27:21] [ERROR] Task completed
+[2026-09-26 04:27:26] [ERROR] Database connection failed
+[2026-09-26 04:27:35] [ERROR] Connection reset by peer
+[2026-09-26 04:27:38] [ERROR] Database failed
+[2026-09-26 04:27:41] [ERROR] Connection reset by peer
+[2026-09-26 04:27:42] [ERROR] Authentication failed
+[2026-09-26 04:27:53] [ERROR] File not found
+[2026-09-26 04:27:56] [ERROR] File not found
+[2026-09-26 04:27:58] [ERROR] User login successful
+[2026-09-26 04:27:59] [ERROR] File not found
+[2026-09-26 04:28:01] [ERROR] File not found
+[2026-09-26 04:28:03] [ERROR] Request processed
+[2026-09-26 04:28:06] [ERROR] Configuration reloaded
+[2026-09-26 04:28:09] [ERROR] File not found
+[2026-09-26 04:28:12] [ERROR] Disk space low
+[2026-09-26 04:28:15] [ERROR] Cache miss
+[2026-09-26 04:28:25] [ERROR] Authentication failed
+[2026-09-26 04:28:28] [ERROR] Memory usage high
+[2026-09-26 04:28:30] [ERROR] Connection reset by peer
+[2026-09-26 04:28:33] [ERROR] Memory usage high
+[2026-09-26 04:28:36] [ERROR] Permission denied
+[2026-09-26 04:28:41] [ERROR] Network timeout
+[2026-09-26 04:28:42] [ERROR] Connection reset by peer
+[2026-09-26 04:28:43] [ERROR] Cache miss
+[2026-09-26 04:28:44] [ERROR] Task completed
+[2026-09-26 04:28:46] [ERROR] Service started
+[2026-09-26 04:28:49] [ERROR] Configuration reloaded
+[2026-09-26 04:28:51] [ERROR] Permission denied
+[2026-09-26 04:28:52] [ERROR] Network timeout
+[2026-09-26 04:28:59] [ERROR] File not found
+[2026-09-26 04:29:06] [ERROR] User login successful
+[2026-09-26 04:29:08] [ERROR] Service started
+[2026-09-26 04:29:20] [ERROR] Configuration reloaded
+[2026-09-26 04:29:31] [ERROR] Authentication failed
+[2026-09-26 04:29:34] [ERROR] Connection reset by peer
+[2026-09-26 04:29:38] [ERROR] User login successful
+[2026-09-26 04:29:40] [ERROR] Database failed
+[2026-09-26 04:29:43] [ERROR] Memory usage high
+[2026-09-26 04:30:01] [ERROR] Network timeout
+[2026-09-26 04:30:06] [ERROR] Configuration reloaded
+[2026-09-26 04:30:07] [ERROR] Configuration reloaded
+[2026-09-26 04:30:09] [ERROR] Disk space low
+[2026-09-26 04:30:13] [ERROR] Service started
+[2026-09-26 04:30:14] [ERROR] Disk space low
+[2026-09-26 04:30:15] [ERROR] Permission denied
+[2026-09-26 04:30:16] [ERROR] Service started
+[2026-09-26 04:30:18] [ERROR] User login successful
+[2026-09-26 04:30:19] [ERROR] User login successful
+[2026-09-26 04:30:25] [ERROR] Database failed
+[2026-09-26 04:30:26] [ERROR] Memory usage high
+[2026-09-26 04:30:27] [ERROR] Configuration reloaded
+[2026-09-26 04:30:28] [ERROR] Authentication failed
+[2026-09-26 04:30:30] [ERROR] File not found
+[2026-09-26 04:30:42] [ERROR] Task completed
+[2026-09-26 04:30:44] [ERROR] Disk space low
+[2026-09-26 04:30:57] [ERROR] User login successful
+[2026-09-26 04:31:08] [ERROR] Disk space low
+[2026-09-26 04:31:09] [ERROR] Authentication failed
+[2026-09-26 04:31:10] [ERROR] Permission denied
+[2026-09-26 04:31:12] [ERROR] Permission denied
+[2026-09-26 04:31:16] [ERROR] Task completed
+[2026-09-26 04:31:21] [ERROR] Authentication failed
+[2026-09-26 04:31:22] [ERROR] Authentication failed
+[2026-09-26 04:31:23] [ERROR] User login successful
+[2026-09-26 04:31:28] [ERROR] Database failed
+[2026-09-26 04:31:37] [ERROR] Network timeout
+[2026-09-26 04:31:44] [ERROR] Configuration reloaded
+[2026-09-26 04:31:45] [ERROR] Database connection failed
+[2026-09-26 04:31:47] [ERROR] Permission denied
+[2026-09-26 04:31:50] [ERROR] User login successful
+[2026-09-26 04:31:52] [ERROR] Network timeout
+[2026-09-26 04:31:58] [ERROR] Request processed
+[2026-09-26 04:32:00] [ERROR] Disk space low
+[2026-09-26 04:32:11] [ERROR] Request processed
+[2026-09-26 04:32:25] [ERROR] Service started
+[2026-09-26 04:32:32] [ERROR] Cache miss
+[2026-09-26 04:32:40] [ERROR] Database failed
+[2026-09-26 04:32:43] [ERROR] File not found
+[2026-09-26 04:32:48] [ERROR] Network timeout
+[2026-09-26 04:33:00] [ERROR] Permission denied
+[2026-09-26 04:33:02] [ERROR] File not found
+[2026-09-26 04:33:10] [ERROR] Permission denied
+[2026-09-26 04:33:11] [ERROR] Network timeout
+[2026-09-26 04:33:14] [ERROR] Connection reset by peer
+[2026-09-26 04:33:16] [ERROR] Service started
+[2026-09-26 04:33:19] [ERROR] Database failed
+[2026-09-26 04:33:24] [ERROR] Service started
+[2026-09-26 04:33:26] [ERROR] Task completed
+[2026-09-26 04:33:27] [ERROR] Service started
+[2026-09-26 04:33:31] [ERROR] Task completed
+[2026-09-26 04:33:32] [ERROR] User login successful
+[2026-09-26 04:33:36] [ERROR] Authentication failed
+[2026-09-26 04:33:38] [ERROR] Task completed
+[2026-09-26 04:33:41] [ERROR] Network timeout
+[2026-09-26 04:33:49] [ERROR] Task completed
+[2026-09-26 04:33:50] [ERROR] User login successful
+[2026-09-26 04:33:57] [ERROR] Request processed
+[2026-09-26 04:34:00] [ERROR] Task completed
+[2026-09-26 04:34:04] [ERROR] Database failed
+[2026-09-26 04:34:16] [ERROR] Disk space low
+[2026-09-26 04:34:17] [ERROR] Connection reset by peer
+[2026-09-26 04:34:20] [ERROR] Configuration reloaded
+[2026-09-26 04:34:21] [ERROR] User login successful
+[2026-09-26 04:34:34] [ERROR] Disk space low
+[2026-09-26 04:34:35] [ERROR] Request processed
+[2026-09-26 04:34:38] [ERROR] User login successful
+[2026-09-26 04:34:41] [ERROR] Network timeout
+[2026-09-26 04:34:42] [ERROR] Request processed
+[2026-09-26 04:34:51] [ERROR] Disk space low
+[2026-09-26 04:34:52] [ERROR] Authentication failed
+[2026-09-26 04:35:05] [ERROR] Memory usage high
+[2026-09-26 04:35:10] [ERROR] Authentication failed
+[2026-09-26 04:35:16] [ERROR] Cache miss
+[2026-09-26 04:35:21] [ERROR] Task completed
+[2026-09-26 04:35:23] [ERROR] Task completed
+[2026-09-26 04:35:27] [ERROR] Database connection failed
+[2026-09-26 04:35:39] [ERROR] File not found
+[2026-09-26 04:35:46] [ERROR] Cache miss
+[2026-09-26 04:35:53] [ERROR] Configuration reloaded
+[2026-09-26 04:36:05] [ERROR] User login successful
+[2026-09-26 04:36:07] [ERROR] Task completed
+[2026-09-26 04:36:10] [ERROR] Cache miss
+[2026-09-26 04:36:15] [ERROR] Permission denied
+[2026-09-26 04:36:20] [ERROR] Network timeout
+[2026-09-26 04:36:28] [ERROR] Database failed
+[2026-09-26 04:36:32] [ERROR] Permission denied
+[2026-09-26 04:36:34] [ERROR] Permission denied
+[2026-09-26 04:36:35] [ERROR] Memory usage high
+[2026-09-26 04:36:46] [ERROR] Authentication failed
+[2026-09-26 04:36:47] [ERROR] File not found
+[2026-09-26 04:36:51] [ERROR] Task completed
+[2026-09-26 04:36:52] [ERROR] Database connection failed
+[2026-09-26 04:36:55] [ERROR] Cache miss
+[2026-09-26 04:37:06] [ERROR] Memory usage high
+[2026-09-26 04:37:07] [ERROR] User login successful
+[2026-09-26 04:37:08] [ERROR] Database failed
+[2026-09-26 04:37:09] [ERROR] File not found
+[2026-09-26 04:37:12] [ERROR] File not found
+[2026-09-26 04:37:16] [ERROR] Disk space low
+[2026-09-26 04:37:24] [ERROR] Request processed
+[2026-09-26 04:37:25] [ERROR] Memory usage high
+[2026-09-26 04:37:27] [ERROR] Database connection failed
+[2026-09-26 04:37:29] [ERROR] Memory usage high
+[2026-09-26 04:37:32] [ERROR] Configuration reloaded
+[2026-09-26 04:37:35] [ERROR] Cache miss
+[2026-09-26 04:37:38] [ERROR] Configuration reloaded
+[2026-09-26 04:37:39] [ERROR] Permission denied
+[2026-09-26 04:37:56] [ERROR] User login successful
+[2026-09-26 04:38:03] [ERROR] Authentication failed
+[2026-09-26 04:38:06] [ERROR] Disk space low
+[2026-09-26 04:38:09] [ERROR] Request processed
+[2026-09-26 04:38:10] [ERROR] Task completed
+[2026-09-26 04:38:14] [ERROR] Connection reset by peer
+[2026-09-26 04:38:15] [ERROR] File not found
+[2026-09-26 04:38:26] [ERROR] Configuration reloaded
+[2026-09-26 04:38:30] [ERROR] Disk space low
+[2026-09-26 04:38:33] [ERROR] Permission denied
+[2026-09-26 04:38:38] [ERROR] Network timeout
+[2026-09-26 04:38:39] [ERROR] User login successful
+[2026-09-26 04:38:43] [ERROR] Cache miss
+[2026-09-26 04:38:44] [ERROR] Authentication failed
+[2026-09-26 04:38:45] [ERROR] Request processed
+[2026-09-26 04:38:46] [ERROR] Authentication failed
+[2026-09-26 04:38:48] [ERROR] Authentication failed
+[2026-09-26 04:38:53] [ERROR] Cache miss
+[2026-09-26 04:38:56] [ERROR] File not found
+[2026-09-26 04:39:10] [ERROR] User login successful
+[2026-09-26 04:39:14] [ERROR] Database connection failed
+[2026-09-26 04:39:20] [ERROR] Configuration reloaded
+[2026-09-26 04:39:26] [ERROR] Permission denied
+[2026-09-26 04:39:29] [ERROR] User login successful
+[2026-09-26 04:39:34] [ERROR] Memory usage high
+[2026-09-26 04:39:39] [ERROR] Authentication failed
+[2026-09-26 04:39:43] [ERROR] Database failed
+[2026-09-26 04:39:44] [ERROR] Permission denied
+[2026-09-26 04:39:49] [ERROR] User login successful
+[2026-09-26 04:39:50] [ERROR] Memory usage high
+[2026-09-26 04:39:51] [ERROR] Memory usage high
+[2026-09-26 04:39:53] [ERROR] Network timeout
+[2026-09-26 04:39:56] [ERROR] Database failed
+[2026-09-26 04:40:01] [ERROR] Connection reset by peer
+[2026-09-26 04:40:06] [ERROR] File not found
+[2026-09-26 04:40:08] [ERROR] Database failed
+[2026-09-26 04:40:17] [ERROR] Database connection failed
+[2026-09-26 04:40:37] [ERROR] Memory usage high
+[2026-09-26 04:40:40] [ERROR] File not found
+[2026-09-26 04:40:41] [ERROR] Database connection failed
+[2026-09-26 04:40:43] [ERROR] Task completed
+[2026-09-26 04:40:44] [ERROR] Authentication failed
+[2026-09-26 04:40:46] [ERROR] Permission denied
+[2026-09-26 04:40:50] [ERROR] Database failed
+[2026-09-26 04:40:52] [ERROR] Permission denied
+[2026-09-26 04:40:58] [ERROR] Configuration reloaded
+[2026-09-26 04:40:59] [ERROR] User login successful
+[2026-09-26 04:41:00] [ERROR] Disk space low
+[2026-09-26 04:41:02] [ERROR] Network timeout
+[2026-09-26 04:41:08] [ERROR] Permission denied
+[2026-09-26 04:41:15] [ERROR] File not found
+[2026-09-26 04:41:16] [ERROR] Database connection failed
+[2026-09-26 04:41:18] [ERROR] File not found
+[2026-09-26 04:41:19] [ERROR] Authentication failed
+[2026-09-26 04:41:20] [ERROR] Database connection failed
+[2026-09-26 04:41:23] [ERROR] User login successful
+[2026-09-26 04:41:33] [ERROR] Connection reset by peer
+[2026-09-26 04:41:41] [ERROR] Database connection failed
+[2026-09-26 04:41:44] [ERROR] Database connection failed
+[2026-09-26 04:41:49] [ERROR] Cache miss
+[2026-09-26 04:41:50] [ERROR] User login successful
+[2026-09-26 04:41:51] [ERROR] Configuration reloaded
+[2026-09-26 04:41:55] [ERROR] Disk space low
+[2026-09-26 04:42:00] [ERROR] User login successful
+[2026-09-26 04:42:01] [ERROR] Cache miss
+[2026-09-26 04:42:06] [ERROR] File not found
+[2026-09-26 04:42:08] [ERROR] Task completed
+[2026-09-26 04:42:15] [ERROR] Database failed
+[2026-09-26 04:42:17] [ERROR] Disk space low
+[2026-09-26 04:42:19] [ERROR] User login successful
+[2026-09-26 04:42:28] [ERROR] Task completed
+[2026-09-26 04:42:35] [ERROR] Task completed
+[2026-09-26 04:42:37] [ERROR] Authentication failed
+[2026-09-26 04:42:41] [ERROR] Memory usage high
+[2026-09-26 04:42:42] [ERROR] Disk space low
+[2026-09-26 04:42:43] [ERROR] Service started
+[2026-09-26 04:42:47] [ERROR] User login successful
+[2026-09-26 04:42:54] [ERROR] Cache miss
+[2026-09-26 04:43:00] [ERROR] Memory usage high
+[2026-09-26 04:43:08] [ERROR] Authentication failed
+[2026-09-26 04:43:21] [ERROR] Configuration reloaded
+[2026-09-26 04:43:22] [ERROR] Disk space low
+[2026-09-26 04:43:24] [ERROR] Network timeout
+[2026-09-26 04:43:26] [ERROR] Connection reset by peer
+[2026-09-26 04:43:27] [ERROR] Authentication failed
+[2026-09-26 04:43:29] [ERROR] Task completed
+[2026-09-26 04:43:31] [ERROR] Database failed
+[2026-09-26 04:43:32] [ERROR] Authentication failed
+[2026-09-26 04:43:33] [ERROR] Permission denied
+[2026-09-26 04:43:34] [ERROR] File not found
+[2026-09-26 04:43:35] [ERROR] Request processed
+[2026-09-26 04:43:43] [ERROR] Database failed
+[2026-09-26 04:43:44] [ERROR] Task completed
+[2026-09-26 04:43:50] [ERROR] Authentication failed
+[2026-09-26 04:43:55] [ERROR] File not found
+[2026-09-26 04:44:01] [ERROR] Permission denied
+[2026-09-26 04:44:02] [ERROR] Database failed
+[2026-09-26 04:44:07] [ERROR] Memory usage high
+[2026-09-26 04:44:10] [ERROR] Task completed
+[2026-09-26 04:44:14] [ERROR] Connection reset by peer
+[2026-09-26 04:44:26] [ERROR] Cache miss
+[2026-09-26 04:44:43] [ERROR] Database failed
+[2026-09-26 04:44:45] [ERROR] Database failed
+[2026-09-26 04:44:46] [ERROR] Connection reset by peer
+[2026-09-26 04:44:47] [ERROR] Memory usage high
+[2026-09-26 04:44:48] [ERROR] Authentication failed
+[2026-09-26 04:44:51] [ERROR] Database failed
+[2026-09-26 04:44:53] [ERROR] Memory usage high
+[2026-09-26 04:44:54] [ERROR] Configuration reloaded
+[2026-09-26 04:44:55] [ERROR] Permission denied
+[2026-09-26 04:45:02] [ERROR] Configuration reloaded
+[2026-09-26 04:45:03] [ERROR] Database failed
+[2026-09-26 04:45:07] [ERROR] Memory usage high
+[2026-09-26 04:45:10] [ERROR] Cache miss
+[2026-09-26 04:45:15] [ERROR] Task completed
+[2026-09-26 04:45:17] [ERROR] Database failed
+[2026-09-26 04:45:26] [ERROR] Database connection failed
+[2026-09-26 04:45:27] [ERROR] Service started
+[2026-09-26 04:45:33] [ERROR] File not found
+[2026-09-26 04:45:36] [ERROR] User login successful
+[2026-09-26 04:45:43] [ERROR] Permission denied
+[2026-09-26 04:45:45] [ERROR] File not found
+[2026-09-26 04:45:47] [ERROR] Cache miss
+[2026-09-26 04:45:49] [ERROR] Permission denied
+[2026-09-26 04:45:52] [ERROR] User login successful
+[2026-09-26 04:45:58] [ERROR] Cache miss
+[2026-09-26 04:46:03] [ERROR] Authentication failed
+[2026-09-26 04:46:09] [ERROR] Service started
+[2026-09-26 04:46:10] [ERROR] Disk space low
+[2026-09-26 04:46:11] [ERROR] Service started
+[2026-09-26 04:46:14] [ERROR] Request processed
+[2026-09-26 04:46:20] [ERROR] Disk space low
+[2026-09-26 04:46:21] [ERROR] Authentication failed
+[2026-09-26 04:46:26] [ERROR] Connection reset by peer
+[2026-09-26 04:46:31] [ERROR] File not found
+[2026-09-26 04:46:43] [ERROR] Permission denied
+[2026-09-26 04:46:50] [ERROR] Service started
+[2026-09-26 04:46:56] [ERROR] Task completed
+[2026-09-26 04:47:00] [ERROR] Authentication failed
+[2026-09-26 04:47:06] [ERROR] Connection reset by peer
+[2026-09-26 04:47:13] [ERROR] Connection reset by peer
+[2026-09-26 04:47:21] [ERROR] Permission denied
+[2026-09-26 04:47:23] [ERROR] Database connection failed
+[2026-09-26 04:47:24] [ERROR] Request processed
+[2026-09-26 04:47:35] [ERROR] Service started
+[2026-09-26 04:47:41] [ERROR] Memory usage high
+[2026-09-26 04:47:45] [ERROR] Task completed
+[2026-09-26 04:47:57] [ERROR] Database connection failed
+[2026-09-26 04:48:01] [ERROR] Task completed
+[2026-09-26 04:48:08] [ERROR] Task completed
+[2026-09-26 04:48:15] [ERROR] Authentication failed
+[2026-09-26 04:48:18] [ERROR] Database failed
+[2026-09-26 04:48:22] [ERROR] Connection reset by peer
+[2026-09-26 04:48:23] [ERROR] Disk space low
+[2026-09-26 04:48:25] [ERROR] Task completed
+[2026-09-26 04:48:31] [ERROR] Service started
+[2026-09-26 04:48:33] [ERROR] Cache miss
+[2026-09-26 04:48:39] [ERROR] Cache miss
+[2026-09-26 04:48:42] [ERROR] Memory usage high
+[2026-09-26 04:48:45] [ERROR] Permission denied
+[2026-09-26 04:48:48] [ERROR] Memory usage high
+[2026-09-26 04:48:49] [ERROR] Permission denied
+[2026-09-26 04:48:55] [ERROR] Network timeout
+[2026-09-26 04:48:57] [ERROR] User login successful
+[2026-09-26 04:48:59] [ERROR] Cache miss
+[2026-09-26 04:49:06] [ERROR] Database connection failed
+[2026-09-26 04:49:12] [ERROR] Service started
+[2026-09-26 04:49:29] [ERROR] Database failed
+[2026-09-26 04:49:35] [ERROR] Cache miss
+[2026-09-26 04:49:39] [ERROR] Task completed
+[2026-09-26 04:49:41] [ERROR] User login successful
+[2026-09-26 04:49:44] [ERROR] Service started
+[2026-09-26 04:49:47] [ERROR] Memory usage high
+[2026-09-26 04:49:55] [ERROR] User login successful
+[2026-09-26 04:49:56] [ERROR] User login successful
+[2026-09-26 04:49:58] [ERROR] Configuration reloaded
+[2026-09-26 04:49:59] [ERROR] Task completed
+[2026-09-26 04:50:02] [ERROR] Request processed
+[2026-09-26 04:50:03] [ERROR] File not found
+[2026-09-26 04:50:08] [ERROR] Authentication failed
+[2026-09-26 04:50:09] [ERROR] File not found
+[2026-09-26 04:50:14] [ERROR] Authentication failed
+[2026-09-26 04:50:16] [ERROR] Service started
+[2026-09-26 04:50:25] [ERROR] User login successful
+[2026-09-26 04:50:27] [ERROR] Permission denied
+[2026-09-26 04:50:34] [ERROR] Authentication failed
+[2026-09-26 04:50:40] [ERROR] Network timeout
+[2026-09-26 04:50:43] [ERROR] Task completed
+[2026-09-26 04:50:45] [ERROR] Request processed
+[2026-09-26 04:50:49] [ERROR] Network timeout
+[2026-09-26 04:50:54] [ERROR] File not found
+[2026-09-26 04:50:59] [ERROR] Database failed
+[2026-09-26 04:51:01] [ERROR] Service started
+[2026-09-26 04:51:02] [ERROR] User login successful
+[2026-09-26 04:51:03] [ERROR] Configuration reloaded
+[2026-09-26 04:51:18] [ERROR] Cache miss
+[2026-09-26 04:51:30] [ERROR] Configuration reloaded
+[2026-09-26 04:51:31] [ERROR] Cache miss
+[2026-09-26 04:51:32] [ERROR] Authentication failed
+[2026-09-26 04:51:35] [ERROR] User login successful
+[2026-09-26 04:51:36] [ERROR] Task completed
+[2026-09-26 04:51:40] [ERROR] File not found
+[2026-09-26 04:51:48] [ERROR] Connection reset by peer
+[2026-09-26 04:51:52] [ERROR] Network timeout
+[2026-09-26 04:51:54] [ERROR] Database connection failed
+[2026-09-26 04:51:57] [ERROR] Connection reset by peer
+[2026-09-26 04:52:13] [ERROR] Task completed
+[2026-09-26 04:52:16] [ERROR] Task completed
+[2026-09-26 04:52:19] [ERROR] Cache miss
+[2026-09-26 04:52:23] [ERROR] Database connection failed
+[2026-09-26 04:52:24] [ERROR] User login successful
+[2026-09-26 04:52:25] [ERROR] Configuration reloaded
+[2026-09-26 04:52:29] [ERROR] Database failed
+[2026-09-26 04:52:34] [ERROR] Database connection failed
+[2026-09-26 04:52:41] [ERROR] Database failed
+[2026-09-26 04:52:45] [ERROR] Permission denied
+[2026-09-26 04:52:48] [ERROR] Service started
+[2026-09-26 04:52:52] [ERROR] Network timeout
+[2026-09-26 04:52:53] [ERROR] User login successful
+[2026-09-26 04:52:58] [ERROR] Configuration reloaded
+[2026-09-26 04:53:00] [ERROR] Database connection failed
+[2026-09-26 04:53:02] [ERROR] Service started
+[2026-09-26 04:53:13] [ERROR] Connection reset by peer
+[2026-09-26 04:53:14] [ERROR] Database failed
+[2026-09-26 04:53:19] [ERROR] Cache miss
+[2026-09-26 04:53:24] [ERROR] Network timeout
+[2026-09-26 04:53:32] [ERROR] Authentication failed
+[2026-09-26 04:53:35] [ERROR] Network timeout
+[2026-09-26 04:53:36] [ERROR] Request processed
+[2026-09-26 04:53:42] [ERROR] Service started
+[2026-09-26 04:53:44] [ERROR] Permission denied
+[2026-09-26 04:53:46] [ERROR] Memory usage high
+[2026-09-26 04:53:54] [ERROR] Request processed
+[2026-09-26 04:53:55] [ERROR] Task completed
+[2026-09-26 04:53:56] [ERROR] Memory usage high
+[2026-09-26 04:54:03] [ERROR] Service started
+[2026-09-26 04:54:06] [ERROR] Configuration reloaded
+[2026-09-26 04:54:07] [ERROR] Connection reset by peer
+[2026-09-26 04:54:10] [ERROR] Request processed
+[2026-09-26 04:54:13] [ERROR] User login successful
+[2026-09-26 04:54:15] [ERROR] Cache miss
+[2026-09-26 04:54:16] [ERROR] Permission denied
+[2026-09-26 04:54:21] [ERROR] Request processed
+[2026-09-26 04:54:22] [ERROR] Authentication failed
+[2026-09-26 04:54:35] [ERROR] Connection reset by peer
+[2026-09-26 04:54:47] [ERROR] Connection reset by peer
+[2026-09-26 04:54:52] [ERROR] Connection reset by peer
+[2026-09-26 04:54:53] [ERROR] Connection reset by peer
+[2026-09-26 04:54:59] [ERROR] User login successful
+[2026-09-26 04:55:06] [ERROR] Authentication failed
+[2026-09-26 04:55:09] [ERROR] Database connection failed
+[2026-09-26 04:55:14] [ERROR] Configuration reloaded
+[2026-09-26 04:55:15] [ERROR] Service started
+[2026-09-26 04:55:27] [ERROR] Cache miss
+[2026-09-26 04:55:28] [ERROR] Permission denied
+[2026-09-26 04:55:29] [ERROR] Cache miss
+[2026-09-26 04:55:32] [ERROR] Service started
+[2026-09-26 04:55:36] [ERROR] File not found
+[2026-09-26 04:55:39] [ERROR] Database failed
+[2026-09-26 04:55:53] [ERROR] Authentication failed
+[2026-09-26 04:55:54] [ERROR] Disk space low
+[2026-09-26 04:55:55] [ERROR] File not found
+[2026-09-26 04:55:56] [ERROR] Connection reset by peer
+[2026-09-26 04:55:58] [ERROR] File not found
+[2026-09-26 04:56:02] [ERROR] Permission denied
+[2026-09-26 04:56:05] [ERROR] User login successful
+[2026-09-26 04:56:08] [ERROR] Connection reset by peer
+[2026-09-26 04:56:18] [ERROR] Permission denied
+[2026-09-26 04:56:21] [ERROR] Network timeout
+[2026-09-26 04:56:25] [ERROR] Configuration reloaded
+[2026-09-26 04:56:30] [ERROR] User login successful
+[2026-09-26 04:56:33] [ERROR] Database connection failed
+[2026-09-26 04:56:37] [ERROR] Task completed
+[2026-09-26 04:56:43] [ERROR] Service started
+[2026-09-26 04:56:45] [ERROR] User login successful
+[2026-09-26 04:56:47] [ERROR] Network timeout
+[2026-09-26 04:56:51] [ERROR] Configuration reloaded
+[2026-09-26 04:56:53] [ERROR] Connection reset by peer
+[2026-09-26 04:56:57] [ERROR] Configuration reloaded
+[2026-09-26 04:57:02] [ERROR] Database failed
+[2026-09-26 04:57:04] [ERROR] Request processed
+[2026-09-26 04:57:22] [ERROR] Request processed
+[2026-09-26 04:57:33] [ERROR] Database failed
+[2026-09-26 04:57:34] [ERROR] Cache miss
+[2026-09-26 04:57:40] [ERROR] Request processed
+[2026-09-26 04:57:42] [ERROR] Database failed
+[2026-09-26 04:57:48] [ERROR] Database failed
+[2026-09-26 04:57:52] [ERROR] Configuration reloaded
+[2026-09-26 04:58:01] [ERROR] Service started
+[2026-09-26 04:58:06] [ERROR] Authentication failed
+[2026-09-26 04:58:07] [ERROR] Database connection failed
+[2026-09-26 04:58:13] [ERROR] Configuration reloaded
+[2026-09-26 04:58:17] [ERROR] Task completed
+[2026-09-26 04:58:19] [ERROR] Request processed
+[2026-09-26 04:58:20] [ERROR] User login successful
+[2026-09-26 04:58:24] [ERROR] Request processed
+[2026-09-26 04:58:26] [ERROR] Connection reset by peer
+[2026-09-26 04:58:28] [ERROR] Service started
+[2026-09-26 04:58:34] [ERROR] Network timeout
+[2026-09-26 04:58:36] [ERROR] Configuration reloaded
+[2026-09-26 04:58:37] [ERROR] Database connection failed
+[2026-09-26 04:58:39] [ERROR] Service started
+[2026-09-26 04:58:49] [ERROR] User login successful
+[2026-09-26 04:58:54] [ERROR] Cache miss
+[2026-09-26 04:58:55] [ERROR] Configuration reloaded
+[2026-09-26 04:59:00] [ERROR] Connection reset by peer
+[2026-09-26 04:59:08] [ERROR] User login successful
+[2026-09-26 04:59:10] [ERROR] Database failed
+[2026-09-26 04:59:11] [ERROR] Network timeout
+[2026-09-26 04:59:14] [ERROR] Database connection failed
+[2026-09-26 04:59:16] [ERROR] Database connection failed
+[2026-09-26 04:59:20] [ERROR] Memory usage high
+[2026-09-26 04:59:21] [ERROR] Database failed
+[2026-09-26 04:59:23] [ERROR] Network timeout
+[2026-09-26 04:59:26] [ERROR] Authentication failed
+[2026-09-26 04:59:31] [ERROR] Memory usage high
+[2026-09-26 04:59:32] [ERROR] Service started
+[2026-09-26 04:59:44] [ERROR] Database connection failed
+[2026-09-26 04:59:55] [ERROR] Permission denied
+[2026-09-26 04:59:58] [ERROR] Task completed
+[2026-09-26 05:00:02] [ERROR] File not found
+[2026-09-26 05:00:06] [ERROR] Disk space low
+[2026-09-26 05:00:11] [ERROR] File not found
+[2026-09-26 05:00:23] [ERROR] Network timeout
+[2026-09-26 05:00:26] [ERROR] Service started
+[2026-09-26 05:00:29] [ERROR] Configuration reloaded
+[2026-09-26 05:00:37] [ERROR] Request processed
+[2026-09-26 05:00:39] [ERROR] Task completed
+[2026-09-26 05:00:44] [ERROR] Connection reset by peer
+[2026-09-26 05:00:51] [ERROR] Database connection failed
+[2026-09-26 05:00:53] [ERROR] Memory usage high
+[2026-09-26 05:00:58] [ERROR] Cache miss
+[2026-09-26 05:01:00] [ERROR] Service started
+[2026-09-26 05:01:01] [ERROR] Database connection failed
+[2026-09-26 05:01:05] [ERROR] Memory usage high
+[2026-09-26 05:01:06] [ERROR] File not found
+[2026-09-26 05:01:10] [ERROR] Connection reset by peer
+[2026-09-26 05:01:15] [ERROR] Memory usage high
+[2026-09-26 05:01:16] [ERROR] Permission denied
+[2026-09-26 05:01:18] [ERROR] File not found
+[2026-09-26 05:01:23] [ERROR] Network timeout
+[2026-09-26 05:01:34] [ERROR] Disk space low
+[2026-09-26 05:01:45] [ERROR] Request processed
+[2026-09-26 05:01:53] [ERROR] Authentication failed
+[2026-09-26 05:01:54] [ERROR] Service started
+[2026-09-26 05:02:00] [ERROR] Request processed
+[2026-09-26 05:02:04] [ERROR] Task completed
+[2026-09-26 05:02:11] [ERROR] Authentication failed
+[2026-09-26 05:02:18] [ERROR] Permission denied
+[2026-09-26 05:02:25] [ERROR] Cache miss
+[2026-09-26 05:02:28] [ERROR] Permission denied
+[2026-09-26 05:02:30] [ERROR] Network timeout
+[2026-09-26 05:02:34] [ERROR] Database failed
+[2026-09-26 05:02:40] [ERROR] Database connection failed
+[2026-09-26 05:02:48] [ERROR] Network timeout
+[2026-09-26 05:02:53] [ERROR] User login successful
+[2026-09-26 05:03:00] [ERROR] Disk space low
+[2026-09-26 05:03:21] [ERROR] Request processed
+[2026-09-26 05:03:23] [ERROR] Service started
+[2026-09-26 05:03:31] [ERROR] File not found
+[2026-09-26 05:03:34] [ERROR] Network timeout
+[2026-09-26 05:03:45] [ERROR] Cache miss
+[2026-09-26 05:03:56] [ERROR] Configuration reloaded
+[2026-09-26 05:03:59] [ERROR] Database failed
+[2026-09-26 05:04:05] [ERROR] Task completed
+[2026-09-26 05:04:07] [ERROR] Connection reset by peer
+[2026-09-26 05:04:10] [ERROR] Cache miss
+[2026-09-26 05:04:12] [ERROR] File not found
+[2026-09-26 05:04:13] [ERROR] Cache miss
+[2026-09-26 05:04:21] [ERROR] File not found
+[2026-09-26 05:04:24] [ERROR] Authentication failed
+[2026-09-26 05:04:29] [ERROR] File not found
+[2026-09-26 05:04:30] [ERROR] Task completed
+[2026-09-26 05:04:31] [ERROR] Task completed
+[2026-09-26 05:04:33] [ERROR] Cache miss
+[2026-09-26 05:04:34] [ERROR] Connection reset by peer
+[2026-09-26 05:04:35] [ERROR] Network timeout
+[2026-09-26 05:04:37] [ERROR] Task completed
+[2026-09-26 05:04:41] [ERROR] Permission denied
+[2026-09-26 05:04:44] [ERROR] Request processed
+[2026-09-26 05:04:45] [ERROR] Database failed
+[2026-09-26 05:04:50] [ERROR] Disk space low
+[2026-09-26 05:04:51] [ERROR] Cache miss
+[2026-09-26 05:04:52] [ERROR] Task completed
+[2026-09-26 05:04:53] [ERROR] Authentication failed
+[2026-09-26 05:04:56] [ERROR] Database failed
+[2026-09-26 05:04:57] [ERROR] Disk space low
+[2026-09-26 05:05:07] [ERROR] File not found
+[2026-09-26 05:05:19] [ERROR] Permission denied
+[2026-09-26 05:05:20] [ERROR] File not found
+[2026-09-26 05:05:22] [ERROR] Request processed
+[2026-09-26 05:05:23] [ERROR] Request processed
+[2026-09-26 05:05:24] [ERROR] Database connection failed
+[2026-09-26 05:05:28] [ERROR] Connection reset by peer
+[2026-09-26 05:05:29] [ERROR] Memory usage high
+[2026-09-26 05:05:30] [ERROR] Memory usage high
+[2026-09-26 05:05:36] [ERROR] User login successful
+[2026-09-26 05:05:37] [ERROR] Network timeout
+[2026-09-26 05:05:40] [ERROR] File not found
+[2026-09-26 05:05:48] [ERROR] Database connection failed
+[2026-09-26 05:05:54] [ERROR] Cache miss
+[2026-09-26 05:05:56] [ERROR] Memory usage high
+[2026-09-26 05:06:05] [ERROR] Disk space low
+[2026-09-26 05:06:08] [ERROR] Request processed
+[2026-09-26 05:06:14] [ERROR] Connection reset by peer
+[2026-09-26 05:06:15] [ERROR] User login successful
+[2026-09-26 05:06:26] [ERROR] Configuration reloaded
+[2026-09-26 05:06:27] [ERROR] Cache miss
+[2026-09-26 05:06:29] [ERROR] Database failed
+[2026-09-26 05:06:30] [ERROR] User login successful
+[2026-09-26 05:06:35] [ERROR] Request processed
+[2026-09-26 05:06:37] [ERROR] Cache miss
+[2026-09-26 05:06:44] [ERROR] User login successful
+[2026-09-26 05:06:49] [ERROR] Network timeout
+[2026-09-26 05:06:51] [ERROR] Database connection failed
+[2026-09-26 05:06:58] [ERROR] Network timeout
+[2026-09-26 05:06:59] [ERROR] Permission denied
+[2026-09-26 05:07:04] [ERROR] Configuration reloaded
+[2026-09-26 05:07:06] [ERROR] Task completed
+[2026-09-26 05:07:08] [ERROR] Cache miss
+[2026-09-26 05:07:09] [ERROR] Cache miss
+[2026-09-26 05:07:11] [ERROR] Database connection failed
+[2026-09-26 05:07:15] [ERROR] Service started
+[2026-09-26 05:07:22] [ERROR] Disk space low
+[2026-09-26 05:07:31] [ERROR] Database failed
+[2026-09-26 05:07:33] [ERROR] Cache miss
+[2026-09-26 05:07:40] [ERROR] Disk space low
+[2026-09-26 05:07:51] [ERROR] Connection reset by peer
+[2026-09-26 05:08:02] [ERROR] Disk space low
+[2026-09-26 05:08:12] [ERROR] Memory usage high
+[2026-09-26 05:08:19] [ERROR] File not found
+[2026-09-26 05:08:20] [ERROR] Request processed
+[2026-09-26 05:08:21] [ERROR] Authentication failed
+[2026-09-26 05:08:24] [ERROR] Task completed
+[2026-09-26 05:08:26] [ERROR] Permission denied
+[2026-09-26 05:08:27] [ERROR] Cache miss
+[2026-09-26 05:08:29] [ERROR] Memory usage high
+[2026-09-26 05:08:32] [ERROR] Service started
+[2026-09-26 05:08:33] [ERROR] Task completed
+[2026-09-26 05:08:40] [ERROR] Permission denied
+[2026-09-26 05:08:41] [ERROR] Authentication failed
+[2026-09-26 05:08:42] [ERROR] Service started
+[2026-09-26 05:08:44] [ERROR] Permission denied
+[2026-09-26 05:08:46] [ERROR] Request processed
+[2026-09-26 05:08:53] [ERROR] Configuration reloaded
+[2026-09-26 05:08:55] [ERROR] Authentication failed
+[2026-09-26 05:08:56] [ERROR] Network timeout
+[2026-09-26 05:09:01] [ERROR] Memory usage high
+[2026-09-26 05:09:02] [ERROR] Database failed
+[2026-09-26 05:09:18] [ERROR] Request processed
+[2026-09-26 05:09:31] [ERROR] Task completed
+[2026-09-26 05:09:41] [ERROR] Database connection failed
+[2026-09-26 05:09:42] [ERROR] Database failed
+[2026-09-26 05:09:50] [ERROR] Permission denied
+[2026-09-26 05:09:51] [ERROR] Memory usage high
+[2026-09-26 05:09:54] [ERROR] Memory usage high
+[2026-09-26 05:09:58] [ERROR] Cache miss
+[2026-09-26 05:09:59] [ERROR] Database connection failed
+[2026-09-26 05:10:07] [ERROR] Network timeout
+[2026-09-26 05:10:13] [ERROR] File not found
+[2026-09-26 05:10:17] [ERROR] Database failed
+[2026-09-26 05:10:19] [ERROR] Service started
+[2026-09-26 05:10:21] [ERROR] Memory usage high
+[2026-09-26 05:10:31] [ERROR] Task completed
+[2026-09-26 05:10:39] [ERROR] Request processed
+[2026-09-26 05:10:45] [ERROR] Database failed
+[2026-09-26 05:10:48] [ERROR] Task completed
+[2026-09-26 05:10:49] [ERROR] Cache miss
+[2026-09-26 05:10:52] [ERROR] Request processed
+[2026-09-26 05:11:03] [ERROR] File not found
+[2026-09-26 05:11:04] [ERROR] File not found
+[2026-09-26 05:11:05] [ERROR] Permission denied
+[2026-09-26 05:11:10] [ERROR] Memory usage high
+[2026-09-26 05:11:22] [ERROR] Authentication failed
+[2026-09-26 05:11:23] [ERROR] Memory usage high
+[2026-09-26 05:11:26] [ERROR] Authentication failed
+[2026-09-26 05:11:29] [ERROR] Task completed
+[2026-09-26 05:11:45] [ERROR] User login successful
+[2026-09-26 05:11:56] [ERROR] Connection reset by peer
+[2026-09-26 05:11:57] [ERROR] Database failed
+[2026-09-26 05:12:00] [ERROR] Connection reset by peer
+[2026-09-26 05:12:05] [ERROR] Connection reset by peer
+[2026-09-26 05:12:07] [ERROR] Task completed
+[2026-09-26 05:12:10] [ERROR] Authentication failed
+[2026-09-26 05:12:11] [ERROR] Network timeout
+[2026-09-26 05:12:14] [ERROR] Task completed
+[2026-09-26 05:12:21] [ERROR] Database failed
+[2026-09-26 05:12:22] [ERROR] User login successful
+[2026-09-26 05:12:23] [ERROR] Connection reset by peer
+[2026-09-26 05:12:26] [ERROR] Request processed
+[2026-09-26 05:12:32] [ERROR] User login successful
+[2026-09-26 05:12:37] [ERROR] Service started
+[2026-09-26 05:12:47] [ERROR] Database failed
+[2026-09-26 05:12:48] [ERROR] Cache miss
+[2026-09-26 05:12:50] [ERROR] Database failed
+[2026-09-26 05:12:59] [ERROR] Permission denied
+[2026-09-26 05:13:02] [ERROR] User login successful
+[2026-09-26 05:13:08] [ERROR] Network timeout
+[2026-09-26 05:13:09] [ERROR] Network timeout
+[2026-09-26 05:13:10] [ERROR] Permission denied
+[2026-09-26 05:13:22] [ERROR] Memory usage high
+[2026-09-26 05:13:31] [ERROR] Cache miss
+[2026-09-26 05:13:32] [ERROR] User login successful
+[2026-09-26 05:13:33] [ERROR] Database connection failed
+[2026-09-26 05:13:39] [ERROR] Database connection failed
+[2026-09-26 05:13:40] [ERROR] User login successful
+[2026-09-26 05:13:41] [ERROR] Memory usage high
+[2026-09-26 05:13:43] [ERROR] Connection reset by peer
+[2026-09-26 05:13:46] [ERROR] Disk space low
+[2026-09-26 05:13:51] [ERROR] Task completed
+[2026-09-26 05:13:52] [ERROR] Database connection failed
+[2026-09-26 05:13:53] [ERROR] Request processed
+[2026-09-26 05:13:58] [ERROR] Request processed
+[2026-09-26 05:14:00] [ERROR] Database failed
+[2026-09-26 05:14:02] [ERROR] File not found
+[2026-09-26 05:14:03] [ERROR] Network timeout
+[2026-09-26 05:14:05] [ERROR] Configuration reloaded
+[2026-09-26 05:14:07] [ERROR] Authentication failed
+[2026-09-26 05:14:10] [ERROR] Service started
+[2026-09-26 05:14:13] [ERROR] Authentication failed
+[2026-09-26 05:14:20] [ERROR] Database connection failed
+[2026-09-26 05:14:23] [ERROR] Connection reset by peer
+[2026-09-26 05:14:26] [ERROR] Authentication failed
+[2026-09-26 05:14:27] [ERROR] Service started
+[2026-09-26 05:14:34] [ERROR] Service started
+[2026-09-26 05:14:47] [ERROR] Authentication failed
+[2026-09-26 05:14:51] [ERROR] Permission denied
+[2026-09-26 05:14:52] [ERROR] File not found
+[2026-09-26 05:14:54] [ERROR] Task completed
+[2026-09-26 05:14:55] [ERROR] Memory usage high
+[2026-09-26 05:15:00] [ERROR] Authentication failed
+[2026-09-26 05:15:04] [ERROR] File not found
+[2026-09-26 05:15:06] [ERROR] Cache miss
+[2026-09-26 05:15:12] [ERROR] Task completed
+[2026-09-26 05:15:15] [ERROR] Disk space low
+[2026-09-26 05:15:16] [ERROR] Task completed
+[2026-09-26 05:15:18] [ERROR] Request processed
+[2026-09-26 05:15:19] [ERROR] Request processed
+[2026-09-26 05:15:22] [ERROR] Database connection failed
+[2026-09-26 05:15:23] [ERROR] User login successful
+[2026-09-26 05:15:25] [ERROR] Task completed
+[2026-09-26 05:15:30] [ERROR] Network timeout
+[2026-09-26 05:15:34] [ERROR] Cache miss
+[2026-09-26 05:15:36] [ERROR] Permission denied
+[2026-09-26 05:15:38] [ERROR] Connection reset by peer
+[2026-09-26 05:15:39] [ERROR] Configuration reloaded
+[2026-09-26 05:15:45] [ERROR] Request processed
+[2026-09-26 05:15:50] [ERROR] Configuration reloaded
+[2026-09-26 05:16:03] [ERROR] Service started
+[2026-09-26 05:16:06] [ERROR] Cache miss
+[2026-09-26 05:16:13] [ERROR] Disk space low
+[2026-09-26 05:16:18] [ERROR] Request processed
+[2026-09-26 05:16:26] [ERROR] Task completed
+[2026-09-26 05:16:28] [ERROR] Authentication failed
+[2026-09-26 05:16:29] [ERROR] Service started
+[2026-09-26 05:16:31] [ERROR] Memory usage high
+[2026-09-26 05:16:35] [ERROR] Configuration reloaded
+[2026-09-26 05:16:36] [ERROR] File not found
+[2026-09-26 05:16:39] [ERROR] Service started
+[2026-09-26 05:16:41] [ERROR] Database failed
+[2026-09-26 05:16:43] [ERROR] Network timeout
+[2026-09-26 05:16:51] [ERROR] Task completed
+[2026-09-26 05:16:56] [ERROR] Configuration reloaded
+[2026-09-26 05:16:57] [ERROR] Configuration reloaded
+[2026-09-26 05:16:58] [ERROR] Authentication failed
+[2026-09-26 05:17:02] [ERROR] Service started
+[2026-09-26 05:17:05] [ERROR] Task completed
+[2026-09-26 05:17:14] [ERROR] Request processed
+[2026-09-26 05:17:15] [ERROR] Database failed
+[2026-09-26 05:17:28] [ERROR] Task completed
+[2026-09-26 05:17:31] [ERROR] Configuration reloaded
+[2026-09-26 05:17:32] [ERROR] Network timeout
+[2026-09-26 05:17:34] [ERROR] Network timeout
+[2026-09-26 05:17:36] [ERROR] Authentication failed
+[2026-09-26 05:17:38] [ERROR] Request processed
+[2026-09-26 05:17:47] [ERROR] Request processed
+[2026-09-26 05:18:01] [ERROR] File not found
+[2026-09-26 05:18:02] [ERROR] File not found
+[2026-09-26 05:18:08] [ERROR] Database failed
+[2026-09-26 05:18:13] [ERROR] Request processed
+[2026-09-26 05:18:16] [ERROR] Network timeout
+[2026-09-26 05:18:18] [ERROR] Connection reset by peer
+[2026-09-26 05:18:21] [ERROR] File not found
+[2026-09-26 05:18:22] [ERROR] Task completed
+[2026-09-26 05:18:28] [ERROR] Permission denied
+[2026-09-26 05:18:31] [ERROR] User login successful
+[2026-09-26 05:18:32] [ERROR] Connection reset by peer
+[2026-09-26 05:18:36] [ERROR] Disk space low
+[2026-09-26 05:18:44] [ERROR] Network timeout
+[2026-09-26 05:18:46] [ERROR] Service started
+[2026-09-26 05:18:47] [ERROR] Connection reset by peer
+[2026-09-26 05:18:50] [ERROR] Database failed
+[2026-09-26 05:18:55] [ERROR] Database connection failed
+[2026-09-26 05:18:58] [ERROR] Configuration reloaded
+[2026-09-26 05:18:59] [ERROR] Disk space low
+[2026-09-26 05:19:04] [ERROR] File not found
+[2026-09-26 05:19:07] [ERROR] Network timeout
+[2026-09-26 05:19:10] [ERROR] Connection reset by peer
+[2026-09-26 05:19:14] [ERROR] Database connection failed
+[2026-09-26 05:19:15] [ERROR] Task completed
+[2026-09-26 05:19:17] [ERROR] Service started
+[2026-09-26 05:19:22] [ERROR] Service started
+[2026-09-26 05:19:24] [ERROR] Request processed
+[2026-09-26 05:19:25] [ERROR] Disk space low
+[2026-09-26 05:19:26] [ERROR] Cache miss
+[2026-09-26 05:19:27] [ERROR] Task completed
+[2026-09-26 05:19:31] [ERROR] Cache miss
+[2026-09-26 05:19:32] [ERROR] Disk space low
+[2026-09-26 05:19:41] [ERROR] Configuration reloaded
+[2026-09-26 05:19:43] [ERROR] Authentication failed
+[2026-09-26 05:19:44] [ERROR] User login successful
+[2026-09-26 05:19:45] [ERROR] Database connection failed
+[2026-09-26 05:19:50] [ERROR] Database failed
+[2026-09-26 05:19:58] [ERROR] File not found
+[2026-09-26 05:19:59] [ERROR] Task completed
+[2026-09-26 05:20:03] [ERROR] File not found
+[2026-09-26 05:20:05] [ERROR] Network timeout
+[2026-09-26 05:20:06] [ERROR] Disk space low
+[2026-09-26 05:20:14] [ERROR] Configuration reloaded
+[2026-09-26 05:20:15] [ERROR] Configuration reloaded
+[2026-09-26 05:20:16] [ERROR] Cache miss
+[2026-09-26 05:20:18] [ERROR] User login successful
+[2026-09-26 05:20:21] [ERROR] Service started
+[2026-09-26 05:20:25] [ERROR] Task completed
+[2026-09-26 05:20:29] [ERROR] Cache miss
+[2026-09-26 05:20:33] [ERROR] Network timeout
+[2026-09-26 05:20:34] [ERROR] Cache miss
+[2026-09-26 05:20:36] [ERROR] Memory usage high
+[2026-09-26 05:20:41] [ERROR] Request processed
+[2026-09-26 05:20:44] [ERROR] Database failed
+[2026-09-26 05:20:45] [ERROR] Disk space low
+[2026-09-26 05:20:50] [ERROR] File not found
+[2026-09-26 05:20:57] [ERROR] Connection reset by peer
+[2026-09-26 05:21:01] [ERROR] Connection reset by peer
+[2026-09-26 05:21:02] [ERROR] Connection reset by peer
+[2026-09-26 05:21:10] [ERROR] Memory usage high
+[2026-09-26 05:21:14] [ERROR] Connection reset by peer
+[2026-09-26 05:21:21] [ERROR] Service started
+[2026-09-26 05:21:22] [ERROR] Disk space low
+[2026-09-26 05:21:26] [ERROR] Network timeout
+[2026-09-26 05:21:28] [ERROR] Database failed
+[2026-09-26 05:21:29] [ERROR] Request processed
+[2026-09-26 05:21:32] [ERROR] Database failed
+[2026-09-26 05:21:33] [ERROR] Disk space low
+[2026-09-26 05:21:36] [ERROR] Network timeout
+[2026-09-26 05:21:39] [ERROR] Cache miss
+[2026-09-26 05:21:41] [ERROR] Database failed
+[2026-09-26 05:21:42] [ERROR] Task completed
+[2026-09-26 05:21:44] [ERROR] Service started
+[2026-09-26 05:21:46] [ERROR] Database failed
+[2026-09-26 05:21:49] [ERROR] Permission denied
+[2026-09-26 05:21:54] [ERROR] Database connection failed
+[2026-09-26 05:21:55] [ERROR] User login successful
+[2026-09-26 05:21:56] [ERROR] Request processed
+[2026-09-26 05:21:58] [ERROR] Permission denied
+[2026-09-26 05:22:05] [ERROR] Permission denied
+[2026-09-26 05:22:06] [ERROR] Service started
+[2026-09-26 05:22:10] [ERROR] Memory usage high
+[2026-09-26 05:22:21] [ERROR] Configuration reloaded
+[2026-09-26 05:22:22] [ERROR] Request processed
+[2026-09-26 05:22:23] [ERROR] User login successful
+[2026-09-26 05:22:29] [ERROR] Disk space low
+[2026-09-26 05:22:31] [ERROR] Configuration reloaded
+[2026-09-26 05:22:40] [ERROR] Permission denied
+[2026-09-26 05:22:43] [ERROR] File not found
+[2026-09-26 05:22:50] [ERROR] Memory usage high
+[2026-09-26 05:22:52] [ERROR] Connection reset by peer
+[2026-09-26 05:22:55] [ERROR] Authentication failed
+[2026-09-26 05:22:58] [ERROR] User login successful
+[2026-09-26 05:23:05] [ERROR] Network timeout
+[2026-09-26 05:23:09] [ERROR] Disk space low
+[2026-09-26 05:23:13] [ERROR] File not found
+[2026-09-26 05:23:14] [ERROR] File not found
+[2026-09-26 05:23:17] [ERROR] Configuration reloaded
+[2026-09-26 05:23:19] [ERROR] Connection reset by peer
+[2026-09-26 05:23:20] [ERROR] Connection reset by peer
+[2026-09-26 05:23:24] [ERROR] Service started
+[2026-09-26 05:23:28] [ERROR] Permission denied
+[2026-09-26 05:23:31] [ERROR] Network timeout
+[2026-09-26 05:23:32] [ERROR] Cache miss
+[2026-09-26 05:23:37] [ERROR] User login successful
+[2026-09-26 05:23:38] [ERROR] Database failed
+[2026-09-26 05:23:40] [ERROR] Memory usage high
+[2026-09-26 05:23:41] [ERROR] Authentication failed
+[2026-09-26 05:23:48] [ERROR] Database connection failed
+[2026-09-26 05:23:49] [ERROR] Cache miss
+[2026-09-26 05:23:50] [ERROR] Connection reset by peer
+[2026-09-26 05:23:57] [ERROR] Configuration reloaded
+[2026-09-26 05:23:58] [ERROR] Disk space low
+[2026-09-26 05:24:05] [ERROR] Network timeout
+[2026-09-26 05:24:11] [ERROR] Connection reset by peer
+[2026-09-26 05:24:15] [ERROR] Permission denied
+[2026-09-26 05:24:35] [ERROR] User login successful
+[2026-09-26 05:24:36] [ERROR] Database failed
+[2026-09-26 05:24:40] [ERROR] User login successful
+[2026-09-26 05:24:42] [ERROR] File not found
+[2026-09-26 05:24:43] [ERROR] Service started
+[2026-09-26 05:24:48] [ERROR] File not found
+[2026-09-26 05:24:53] [ERROR] Configuration reloaded
+[2026-09-26 05:25:07] [ERROR] Request processed
+[2026-09-26 05:25:09] [ERROR] Database connection failed
+[2026-09-26 05:25:10] [ERROR] File not found
+[2026-09-26 05:25:22] [ERROR] Network timeout
+[2026-09-26 05:25:27] [ERROR] Network timeout
+[2026-09-26 05:25:35] [ERROR] Network timeout
+[2026-09-26 05:25:46] [ERROR] Permission denied
+[2026-09-26 05:25:56] [ERROR] Permission denied
+[2026-09-26 05:26:06] [ERROR] User login successful
+[2026-09-26 05:26:10] [ERROR] User login successful
+[2026-09-26 05:26:16] [ERROR] Network timeout
+[2026-09-26 05:26:18] [ERROR] Authentication failed
+[2026-09-26 05:26:19] [ERROR] Disk space low
+[2026-09-26 05:26:20] [ERROR] Request processed
+[2026-09-26 05:26:23] [ERROR] Task completed
+[2026-09-26 05:26:29] [ERROR] Service started
+[2026-09-26 05:26:34] [ERROR] Disk space low
+[2026-09-26 05:26:39] [ERROR] Service started
+[2026-09-26 05:26:42] [ERROR] Permission denied
+[2026-09-26 05:26:45] [ERROR] User login successful
+[2026-09-26 05:26:46] [ERROR] Task completed
+[2026-09-26 05:26:51] [ERROR] User login successful
+[2026-09-26 05:26:54] [ERROR] Database failed
+[2026-09-26 05:26:57] [ERROR] User login successful
+[2026-09-26 05:26:58] [ERROR] Task completed
+[2026-09-26 05:27:01] [ERROR] Task completed
+[2026-09-26 05:27:08] [ERROR] User login successful
+[2026-09-26 05:27:13] [ERROR] Database failed
+[2026-09-26 05:27:21] [ERROR] Database failed
+[2026-09-26 05:27:24] [ERROR] Permission denied
+[2026-09-26 05:27:25] [ERROR] Database failed
+[2026-09-26 05:27:26] [ERROR] User login successful
+[2026-09-26 05:27:30] [ERROR] Database connection failed
+[2026-09-26 05:27:31] [ERROR] Database failed
+[2026-09-26 05:27:32] [ERROR] Database connection failed
+[2026-09-26 05:27:38] [ERROR] Database failed
+[2026-09-26 05:27:49] [ERROR] Request processed
+[2026-09-26 05:27:59] [ERROR] File not found
+[2026-09-26 05:28:00] [ERROR] Database failed
+[2026-09-26 05:28:05] [ERROR] Configuration reloaded
+[2026-09-26 05:28:07] [ERROR] Connection reset by peer
+[2026-09-26 05:28:21] [ERROR] Cache miss
+[2026-09-26 05:28:23] [ERROR] Task completed
+[2026-09-26 05:28:30] [ERROR] Permission denied
+[2026-09-26 05:28:32] [ERROR] Database connection failed
+[2026-09-26 05:28:35] [ERROR] Permission denied
+[2026-09-26 05:28:38] [ERROR] Service started
+[2026-09-26 05:28:41] [ERROR] Connection reset by peer
+[2026-09-26 05:28:44] [ERROR] Authentication failed
+[2026-09-26 05:28:53] [ERROR] User login successful
+[2026-09-26 05:29:01] [ERROR] Network timeout
+[2026-09-26 05:29:05] [ERROR] Authentication failed
+[2026-09-26 05:29:09] [ERROR] Request processed
+[2026-09-26 05:29:13] [ERROR] Request processed
+[2026-09-26 05:29:16] [ERROR] Memory usage high
+[2026-09-26 05:29:17] [ERROR] Database connection failed
+[2026-09-26 05:29:22] [ERROR] File not found
+[2026-09-26 05:29:26] [ERROR] Database connection failed
+[2026-09-26 05:29:30] [ERROR] Request processed
+[2026-09-26 05:29:35] [ERROR] User login successful
+[2026-09-26 05:29:46] [ERROR] Disk space low
+[2026-09-26 05:29:50] [ERROR] Request processed
+[2026-09-26 05:29:53] [ERROR] Configuration reloaded
+[2026-09-26 05:29:56] [ERROR] Service started
+[2026-09-26 05:29:58] [ERROR] Database connection failed
+[2026-09-26 05:30:01] [ERROR] Request processed
+[2026-09-26 05:30:04] [ERROR] Memory usage high
+[2026-09-26 05:30:07] [ERROR] Request processed
+[2026-09-26 05:30:10] [ERROR] Request processed
+[2026-09-26 05:30:14] [ERROR] Memory usage high
+[2026-09-26 05:30:17] [ERROR] Database connection failed
+[2026-09-26 05:30:20] [ERROR] User login successful
+[2026-09-26 05:30:24] [ERROR] Database connection failed
+[2026-09-26 05:30:25] [ERROR] Network timeout
+[2026-09-26 05:30:32] [ERROR] Database failed
+[2026-09-26 05:30:34] [ERROR] Service started
+[2026-09-26 05:30:36] [ERROR] File not found
+[2026-09-26 05:30:40] [ERROR] User login successful
+[2026-09-26 05:30:41] [ERROR] Database failed
+[2026-09-26 05:30:42] [ERROR] Authentication failed
+[2026-09-26 05:30:43] [ERROR] Database connection failed
+[2026-09-26 05:30:44] [ERROR] Task completed
+[2026-09-26 05:30:55] [ERROR] Database connection failed
+[2026-09-26 05:31:00] [ERROR] Permission denied
+[2026-09-26 05:31:02] [ERROR] Connection reset by peer
+[2026-09-26 05:31:03] [ERROR] Memory usage high
+[2026-09-26 05:31:04] [ERROR] File not found
+[2026-09-26 05:31:09] [ERROR] Permission denied
+[2026-09-26 05:31:12] [ERROR] Task completed
+[2026-09-26 05:31:15] [ERROR] Database connection failed
+[2026-09-26 05:31:18] [ERROR] Database connection failed
+[2026-09-26 05:31:25] [ERROR] Service started
+[2026-09-26 05:31:28] [ERROR] Cache miss
+[2026-09-26 05:31:36] [ERROR] File not found
+[2026-09-26 05:31:45] [ERROR] Database failed
+[2026-09-26 05:31:46] [ERROR] Disk space low
+[2026-09-26 05:31:57] [ERROR] Service started
+[2026-09-26 05:32:00] [ERROR] File not found
+[2026-09-26 05:32:02] [ERROR] Database connection failed
+[2026-09-26 05:32:04] [ERROR] Authentication failed
+[2026-09-26 05:32:07] [ERROR] Connection reset by peer
+[2026-09-26 05:32:11] [ERROR] Cache miss
+[2026-09-26 05:32:19] [ERROR] Request processed
+[2026-09-26 05:32:22] [ERROR] Connection reset by peer
+[2026-09-26 05:32:29] [ERROR] Database failed
+[2026-09-26 05:32:31] [ERROR] Database connection failed
+[2026-09-26 05:32:32] [ERROR] File not found
+[2026-09-26 05:32:34] [ERROR] Database connection failed
+[2026-09-26 05:32:35] [ERROR] User login successful
+[2026-09-26 05:32:42] [ERROR] Network timeout
+[2026-09-26 05:32:46] [ERROR] Request processed
+[2026-09-26 05:32:47] [ERROR] Memory usage high
+[2026-09-26 05:32:48] [ERROR] Database failed
+[2026-09-26 05:32:49] [ERROR] Permission denied
+[2026-09-26 05:32:54] [ERROR] File not found
+[2026-09-26 05:32:55] [ERROR] Request processed
+[2026-09-26 05:32:58] [ERROR] Connection reset by peer
+[2026-09-26 05:32:59] [ERROR] Disk space low
+[2026-09-26 05:33:01] [ERROR] Network timeout
+[2026-09-26 05:33:04] [ERROR] Database failed
+[2026-09-26 05:33:08] [ERROR] File not found
+[2026-09-26 05:33:11] [ERROR] Connection reset by peer
+[2026-09-26 05:33:12] [ERROR] Configuration reloaded
+[2026-09-26 05:33:15] [ERROR] Cache miss
+[2026-09-26 05:33:16] [ERROR] Disk space low
+[2026-09-26 05:33:18] [ERROR] Network timeout
+[2026-09-26 05:33:20] [ERROR] Disk space low
+[2026-09-26 05:33:21] [ERROR] Memory usage high
+[2026-09-26 05:33:22] [ERROR] User login successful
+[2026-09-26 05:33:28] [ERROR] Authentication failed
+[2026-09-26 05:33:32] [ERROR] Disk space low
+[2026-09-26 05:33:35] [ERROR] Memory usage high
+[2026-09-26 05:33:37] [ERROR] User login successful
+[2026-09-26 05:33:40] [ERROR] User login successful
+[2026-09-26 05:33:41] [ERROR] Connection reset by peer
+[2026-09-26 05:33:43] [ERROR] Authentication failed
+[2026-09-26 05:33:55] [ERROR] File not found
+[2026-09-26 05:33:57] [ERROR] Database connection failed
+[2026-09-26 05:33:58] [ERROR] Disk space low
+[2026-09-26 05:34:01] [ERROR] Cache miss
+[2026-09-26 05:34:13] [ERROR] Service started
+[2026-09-26 05:34:15] [ERROR] Database connection failed
+[2026-09-26 05:34:17] [ERROR] Service started
+[2026-09-26 05:34:19] [ERROR] Database connection failed
+[2026-09-26 05:34:22] [ERROR] User login successful
+[2026-09-26 05:34:26] [ERROR] Task completed
+[2026-09-26 05:34:44] [ERROR] File not found
+[2026-09-26 05:34:56] [ERROR] Network timeout
+[2026-09-26 05:34:57] [ERROR] Memory usage high
+[2026-09-26 05:34:58] [ERROR] Configuration reloaded
+[2026-09-26 05:35:03] [ERROR] File not found
+[2026-09-26 05:35:06] [ERROR] Memory usage high
+[2026-09-26 05:35:16] [ERROR] Memory usage high
+[2026-09-26 05:35:17] [ERROR] Service started
+[2026-09-26 05:35:22] [ERROR] Network timeout
+[2026-09-26 05:35:26] [ERROR] User login successful
+[2026-09-26 05:35:31] [ERROR] Service started
+[2026-09-26 05:35:32] [ERROR] Cache miss
+[2026-09-26 05:35:36] [ERROR] Database failed
+[2026-09-26 05:35:39] [ERROR] User login successful
+[2026-09-26 05:35:43] [ERROR] Permission denied
+[2026-09-26 05:35:44] [ERROR] Task completed
+[2026-09-26 05:35:45] [ERROR] Database connection failed
+[2026-09-26 05:35:49] [ERROR] Database failed
+[2026-09-26 05:35:53] [ERROR] Task completed
+[2026-09-26 05:35:55] [ERROR] Request processed
+[2026-09-26 05:36:04] [ERROR] User login successful
+[2026-09-26 05:36:06] [ERROR] Database failed
+[2026-09-26 05:36:07] [ERROR] Database connection failed
+[2026-09-26 05:36:11] [ERROR] Permission denied
+[2026-09-26 05:36:20] [ERROR] Configuration reloaded
+[2026-09-26 05:36:24] [ERROR] Permission denied
+[2026-09-26 05:36:27] [ERROR] Task completed
+[2026-09-26 05:36:38] [ERROR] Database failed
+[2026-09-26 05:36:43] [ERROR] Request processed
+[2026-09-26 05:36:47] [ERROR] Service started
+[2026-09-26 05:36:48] [ERROR] Disk space low
+[2026-09-26 05:36:55] [ERROR] Cache miss
+[2026-09-26 05:36:58] [ERROR] Database failed
+[2026-09-26 05:37:02] [ERROR] Authentication failed
+[2026-09-26 05:37:03] [ERROR] Connection reset by peer
+[2026-09-26 05:37:08] [ERROR] Database connection failed
+[2026-09-26 05:37:13] [ERROR] Authentication failed
+[2026-09-26 05:37:14] [ERROR] Database connection failed
+[2026-09-26 05:37:15] [ERROR] Database connection failed
+[2026-09-26 05:37:16] [ERROR] Authentication failed
+[2026-09-26 05:37:19] [ERROR] Database connection failed
+[2026-09-26 05:37:23] [ERROR] Configuration reloaded
+[2026-09-26 05:37:31] [ERROR] Connection reset by peer
+[2026-09-26 05:37:32] [ERROR] Memory usage high
+[2026-09-26 05:37:43] [ERROR] User login successful
+[2026-09-26 05:37:44] [ERROR] Configuration reloaded
+[2026-09-26 05:37:50] [ERROR] Cache miss
+[2026-09-26 05:37:54] [ERROR] Permission denied
+[2026-09-26 05:37:55] [ERROR] Database connection failed
+[2026-09-26 05:37:57] [ERROR] File not found
+[2026-09-26 05:37:58] [ERROR] Service started
+[2026-09-26 05:37:59] [ERROR] File not found
+[2026-09-26 05:38:05] [ERROR] Disk space low
+[2026-09-26 05:38:09] [ERROR] Connection reset by peer
+[2026-09-26 05:38:10] [ERROR] User login successful
+[2026-09-26 05:38:11] [ERROR] User login successful
+[2026-09-26 05:38:15] [ERROR] File not found
+[2026-09-26 05:38:16] [ERROR] Network timeout
+[2026-09-26 05:38:17] [ERROR] Database connection failed
+[2026-09-26 05:38:23] [ERROR] User login successful
+[2026-09-26 05:38:27] [ERROR] User login successful
+[2026-09-26 05:38:30] [ERROR] Configuration reloaded
+[2026-09-26 05:38:32] [ERROR] Disk space low
+[2026-09-26 05:38:35] [ERROR] Task completed
+[2026-09-26 05:38:38] [ERROR] Permission denied
+[2026-09-26 05:38:40] [ERROR] Configuration reloaded
+[2026-09-26 05:38:45] [ERROR] Database failed
+[2026-09-26 05:38:46] [ERROR] Network timeout
+[2026-09-26 05:39:03] [ERROR] Cache miss
+[2026-09-26 05:39:10] [ERROR] Memory usage high
+[2026-09-26 05:39:25] [ERROR] File not found
+[2026-09-26 05:39:26] [ERROR] User login successful
+[2026-09-26 05:39:27] [ERROR] Authentication failed
+[2026-09-26 05:39:33] [ERROR] File not found
+[2026-09-26 05:39:34] [ERROR] Network timeout
+[2026-09-26 05:39:35] [ERROR] Permission denied
+[2026-09-26 05:39:46] [ERROR] Cache miss
+[2026-09-26 05:39:52] [ERROR] File not found
+[2026-09-26 05:39:55] [ERROR] Task completed
+[2026-09-26 05:39:57] [ERROR] Permission denied
+[2026-09-26 05:40:03] [ERROR] Disk space low
+[2026-09-26 05:40:13] [ERROR] Disk space low
+[2026-09-26 05:40:28] [ERROR] User login successful
+[2026-09-26 05:40:34] [ERROR] Database connection failed
+[2026-09-26 05:40:45] [ERROR] Memory usage high
+[2026-09-26 05:40:53] [ERROR] User login successful
+[2026-09-26 05:40:54] [ERROR] Memory usage high
+[2026-09-26 05:40:56] [ERROR] Network timeout
+[2026-09-26 05:41:01] [ERROR] Network timeout
+[2026-09-26 05:41:10] [ERROR] File not found
+[2026-09-26 05:41:20] [ERROR] Database connection failed
+[2026-09-26 05:41:21] [ERROR] Memory usage high
+[2026-09-26 05:41:22] [ERROR] Authentication failed
+[2026-09-26 05:41:27] [ERROR] Configuration reloaded
+[2026-09-26 05:41:31] [ERROR] Task completed
+[2026-09-26 05:41:37] [ERROR] Service started
+[2026-09-26 05:41:41] [ERROR] Memory usage high
+[2026-09-26 05:41:42] [ERROR] Task completed
+[2026-09-26 05:41:45] [ERROR] File not found
+[2026-09-26 05:41:50] [ERROR] Service started
+[2026-09-26 05:41:55] [ERROR] Database failed
+[2026-09-26 05:41:57] [ERROR] Database connection failed
+[2026-09-26 05:41:58] [ERROR] Authentication failed
+[2026-09-26 05:42:01] [ERROR] Service started
+[2026-09-26 05:42:02] [ERROR] File not found
+[2026-09-26 05:42:08] [ERROR] Task completed
+[2026-09-26 05:42:09] [ERROR] Configuration reloaded
+[2026-09-26 05:42:18] [ERROR] Configuration reloaded
+[2026-09-26 05:42:20] [ERROR] Database failed
+[2026-09-26 05:42:21] [ERROR] Request processed
+[2026-09-26 05:42:24] [ERROR] Cache miss
+[2026-09-26 05:42:26] [ERROR] Authentication failed
+[2026-09-26 05:42:28] [ERROR] Request processed
+[2026-09-26 05:42:37] [ERROR] Network timeout
+[2026-09-26 05:42:47] [ERROR] File not found
+[2026-09-26 05:42:49] [ERROR] Memory usage high
+[2026-09-26 05:42:52] [ERROR] Memory usage high
+[2026-09-26 05:42:56] [ERROR] Configuration reloaded
+[2026-09-26 05:42:57] [ERROR] File not found
+[2026-09-26 05:43:04] [ERROR] Permission denied
+[2026-09-26 05:43:08] [ERROR] Configuration reloaded
+[2026-09-26 05:43:12] [ERROR] Database failed
+[2026-09-26 05:43:15] [ERROR] Cache miss
+[2026-09-26 05:43:20] [ERROR] File not found
+[2026-09-26 05:43:21] [ERROR] User login successful
+[2026-09-26 05:43:26] [ERROR] File not found
+[2026-09-26 05:43:34] [ERROR] Network timeout
+[2026-09-26 05:43:35] [ERROR] Network timeout
+[2026-09-26 05:43:40] [ERROR] Database connection failed
+[2026-09-26 05:43:46] [ERROR] Request processed
+[2026-09-26 05:43:52] [ERROR] Service started
+[2026-09-26 05:43:57] [ERROR] Disk space low
+[2026-09-26 05:43:58] [ERROR] Permission denied
+[2026-09-26 05:44:00] [ERROR] Disk space low
+[2026-09-26 05:44:02] [ERROR] User login successful
+[2026-09-26 05:44:04] [ERROR] Configuration reloaded
+[2026-09-26 05:44:06] [ERROR] Authentication failed
+[2026-09-26 05:44:07] [ERROR] Cache miss
+[2026-09-26 05:44:12] [ERROR] Task completed
+[2026-09-26 05:44:16] [ERROR] Task completed
+[2026-09-26 05:44:17] [ERROR] Network timeout
+[2026-09-26 05:44:18] [ERROR] Permission denied
+[2026-09-26 05:44:27] [ERROR] Database connection failed
+[2026-09-26 05:44:34] [ERROR] Cache miss
+[2026-09-26 05:44:40] [ERROR] Service started
+[2026-09-26 05:44:52] [ERROR] Database connection failed
+[2026-09-26 05:44:55] [ERROR] Network timeout
+[2026-09-26 05:44:56] [ERROR] Connection reset by peer
+[2026-09-26 05:44:58] [ERROR] Permission denied
+[2026-09-26 05:44:59] [ERROR] Database connection failed
+[2026-09-26 05:45:01] [ERROR] Permission denied
+[2026-09-26 05:45:03] [ERROR] Permission denied
+[2026-09-26 05:45:11] [ERROR] Task completed
+[2026-09-26 05:45:15] [ERROR] Network timeout
+[2026-09-26 05:45:17] [ERROR] File not found
+[2026-09-26 05:45:18] [ERROR] Disk space low
+[2026-09-26 05:45:31] [ERROR] Memory usage high
+[2026-09-26 05:45:47] [ERROR] Connection reset by peer
+[2026-09-26 05:46:00] [ERROR] Memory usage high
+[2026-09-26 05:46:04] [ERROR] Configuration reloaded
+[2026-09-26 05:46:07] [ERROR] Network timeout
+[2026-09-26 05:46:08] [ERROR] Database connection failed
+[2026-09-26 05:46:10] [ERROR] Disk space low
+[2026-09-26 05:46:14] [ERROR] Request processed
+[2026-09-26 05:46:17] [ERROR] Database connection failed
+[2026-09-26 05:46:21] [ERROR] User login successful
+[2026-09-26 05:46:23] [ERROR] Request processed
+[2026-09-26 05:46:26] [ERROR] Permission denied
+[2026-09-26 05:46:30] [ERROR] Database connection failed
+[2026-09-26 05:46:31] [ERROR] File not found
+[2026-09-26 05:46:32] [ERROR] Cache miss
+[2026-09-26 05:46:33] [ERROR] Authentication failed
+[2026-09-26 05:46:34] [ERROR] Service started
+[2026-09-26 05:46:45] [ERROR] Memory usage high
+[2026-09-26 05:46:48] [ERROR] Network timeout
+[2026-09-26 05:46:50] [ERROR] File not found
+[2026-09-26 05:46:52] [ERROR] Request processed
+[2026-09-26 05:46:58] [ERROR] Database failed
+[2026-09-26 05:47:00] [ERROR] Network timeout
+[2026-09-26 05:47:02] [ERROR] User login successful
+[2026-09-26 05:47:05] [ERROR] Database failed
+[2026-09-26 05:47:06] [ERROR] File not found
+[2026-09-26 05:47:08] [ERROR] Memory usage high
+[2026-09-26 05:47:09] [ERROR] File not found
+[2026-09-26 05:47:11] [ERROR] Database failed
+[2026-09-26 05:47:17] [ERROR] File not found
+[2026-09-26 05:47:18] [ERROR] Authentication failed
+[2026-09-26 05:47:20] [ERROR] File not found
+[2026-09-26 05:47:22] [ERROR] Task completed
+[2026-09-26 05:47:24] [ERROR] Database connection failed
+[2026-09-26 05:47:27] [ERROR] Permission denied
+[2026-09-26 05:47:28] [ERROR] Disk space low
+[2026-09-26 05:47:29] [ERROR] Configuration reloaded
+[2026-09-26 05:47:37] [ERROR] Connection reset by peer
+[2026-09-26 05:47:40] [ERROR] File not found
+[2026-09-26 05:47:44] [ERROR] Memory usage high
+[2026-09-26 05:47:45] [ERROR] Authentication failed
+[2026-09-26 05:47:49] [ERROR] Memory usage high
+[2026-09-26 05:47:52] [ERROR] Configuration reloaded
+[2026-09-26 05:47:56] [ERROR] Network timeout
+[2026-09-26 05:47:58] [ERROR] Cache miss
+[2026-09-26 05:47:59] [ERROR] Database failed
+[2026-09-26 05:48:01] [ERROR] Disk space low
+[2026-09-26 05:48:07] [ERROR] Connection reset by peer
+[2026-09-26 05:48:12] [ERROR] Service started
+[2026-09-26 05:48:15] [ERROR] Configuration reloaded
+[2026-09-26 05:48:17] [ERROR] Disk space low
+[2026-09-26 05:48:23] [ERROR] Database failed
+[2026-09-26 05:48:24] [ERROR] Database connection failed
+[2026-09-26 05:48:28] [ERROR] Disk space low
+[2026-09-26 05:48:37] [ERROR] Disk space low
+[2026-09-26 05:48:40] [ERROR] Network timeout
+[2026-09-26 05:48:43] [ERROR] Request processed
+[2026-09-26 05:48:45] [ERROR] Service started
+[2026-09-26 05:48:48] [ERROR] Task completed
+[2026-09-26 05:48:53] [ERROR] Cache miss
+[2026-09-26 05:48:55] [ERROR] Cache miss
+[2026-09-26 05:49:02] [ERROR] Configuration reloaded
+[2026-09-26 05:49:04] [ERROR] Cache miss
+[2026-09-26 05:49:06] [ERROR] Disk space low
+[2026-09-26 05:49:07] [ERROR] Network timeout
+[2026-09-26 05:49:08] [ERROR] Permission denied
+[2026-09-26 05:49:12] [ERROR] Task completed
+[2026-09-26 05:49:14] [ERROR] Network timeout
+[2026-09-26 05:49:19] [ERROR] Connection reset by peer
+[2026-09-26 05:49:22] [ERROR] Permission denied
+[2026-09-26 05:49:26] [ERROR] Network timeout
+[2026-09-26 05:49:29] [ERROR] Task completed
+[2026-09-26 05:49:30] [ERROR] Network timeout
+[2026-09-26 05:49:36] [ERROR] Task completed
+[2026-09-26 05:49:49] [ERROR] Cache miss
+[2026-09-26 05:49:55] [ERROR] Permission denied
+[2026-09-26 05:50:01] [ERROR] Authentication failed
+[2026-09-26 05:50:04] [ERROR] Request processed
+[2026-09-26 05:50:05] [ERROR] Request processed
+[2026-09-26 05:50:06] [ERROR] Permission denied
+[2026-09-26 05:50:07] [ERROR] Memory usage high
+[2026-09-26 05:50:10] [ERROR] User login successful
+[2026-09-26 05:50:21] [ERROR] Database connection failed
+[2026-09-26 05:50:22] [ERROR] Configuration reloaded
+[2026-09-26 05:50:25] [ERROR] File not found
+[2026-09-26 05:50:32] [ERROR] Cache miss
+[2026-09-26 05:50:34] [ERROR] Database connection failed
+[2026-09-26 05:50:40] [ERROR] User login successful
+[2026-09-26 05:50:44] [ERROR] Request processed
+[2026-09-26 05:50:57] [ERROR] Request processed
+[2026-09-26 05:50:59] [ERROR] File not found
+[2026-09-26 05:51:04] [ERROR] Disk space low
+[2026-09-26 05:51:05] [ERROR] Service started
+[2026-09-26 05:51:09] [ERROR] Service started
+[2026-09-26 05:51:16] [ERROR] Disk space low
+[2026-09-26 05:51:24] [ERROR] Memory usage high
+[2026-09-26 05:51:34] [ERROR] Configuration reloaded
+[2026-09-26 05:51:35] [ERROR] Service started
+[2026-09-26 05:51:37] [ERROR] Task completed
+[2026-09-26 05:51:38] [ERROR] Cache miss
+[2026-09-26 05:51:40] [ERROR] Configuration reloaded
+[2026-09-26 05:51:41] [ERROR] Cache miss
+[2026-09-26 05:51:42] [ERROR] Database connection failed
+[2026-09-26 05:51:49] [ERROR] User login successful
+[2026-09-26 05:51:50] [ERROR] Cache miss
+[2026-09-26 05:51:51] [ERROR] Request processed
+[2026-09-26 05:51:53] [ERROR] Cache miss
+[2026-09-26 05:51:58] [ERROR] User login successful
+[2026-09-26 05:52:04] [ERROR] Memory usage high
+[2026-09-26 05:52:11] [ERROR] File not found
+[2026-09-26 05:52:12] [ERROR] Disk space low
+[2026-09-26 05:52:14] [ERROR] Request processed
+[2026-09-26 05:52:15] [ERROR] Database connection failed
+[2026-09-26 05:52:16] [ERROR] Network timeout
+[2026-09-26 05:52:23] [ERROR] Network timeout
+[2026-09-26 05:52:28] [ERROR] Network timeout
+[2026-09-26 05:52:35] [ERROR] Connection reset by peer
+[2026-09-26 05:52:44] [ERROR] Service started
+[2026-09-26 05:52:51] [ERROR] Request processed
+[2026-09-26 05:52:55] [ERROR] File not found
+[2026-09-26 05:53:05] [ERROR] File not found
+[2026-09-26 05:53:06] [ERROR] Service started
+[2026-09-26 05:53:08] [ERROR] User login successful
+[2026-09-26 05:53:12] [ERROR] Database failed
+[2026-09-26 05:53:21] [ERROR] Task completed
+[2026-09-26 05:53:23] [ERROR] Configuration reloaded
+[2026-09-26 05:53:33] [ERROR] Request processed
+[2026-09-26 05:53:41] [ERROR] Request processed
+[2026-09-26 05:53:42] [ERROR] Task completed
+[2026-09-26 05:53:49] [ERROR] Memory usage high
+[2026-09-26 05:53:53] [ERROR] Request processed
+[2026-09-26 05:53:58] [ERROR] Disk space low
+[2026-09-26 05:53:59] [ERROR] User login successful
+[2026-09-26 05:54:00] [ERROR] Memory usage high
+[2026-09-26 05:54:06] [ERROR] Network timeout
+[2026-09-26 05:54:13] [ERROR] File not found
+[2026-09-26 05:54:16] [ERROR] Configuration reloaded
+[2026-09-26 05:54:17] [ERROR] File not found
+[2026-09-26 05:54:18] [ERROR] Memory usage high
+[2026-09-26 05:54:20] [ERROR] Database connection failed
+[2026-09-26 05:54:21] [ERROR] Service started
+[2026-09-26 05:54:22] [ERROR] Request processed
+[2026-09-26 05:54:30] [ERROR] Request processed
+[2026-09-26 05:54:31] [ERROR] Configuration reloaded
+[2026-09-26 05:54:33] [ERROR] Connection reset by peer
+[2026-09-26 05:54:35] [ERROR] Cache miss
+[2026-09-26 05:54:49] [ERROR] User login successful
+[2026-09-26 05:54:50] [ERROR] Cache miss
+[2026-09-26 05:54:52] [ERROR] Permission denied
+[2026-09-26 05:54:54] [ERROR] Service started
+[2026-09-26 05:54:56] [ERROR] Authentication failed
+[2026-09-26 05:55:01] [ERROR] Network timeout
+[2026-09-26 05:55:03] [ERROR] Database connection failed
+[2026-09-26 05:55:06] [ERROR] Disk space low
+[2026-09-26 05:55:11] [ERROR] Request processed
+[2026-09-26 05:55:12] [ERROR] Authentication failed
+[2026-09-26 05:55:13] [ERROR] User login successful
+[2026-09-26 05:55:18] [ERROR] Service started
+[2026-09-26 05:55:26] [ERROR] Database failed
+[2026-09-26 05:55:37] [ERROR] Authentication failed
+[2026-09-26 05:55:38] [ERROR] Database failed
+[2026-09-26 05:55:41] [ERROR] Service started
+[2026-09-26 05:55:42] [ERROR] Disk space low
+[2026-09-26 05:55:45] [ERROR] Network timeout
+[2026-09-26 05:55:51] [ERROR] File not found
+[2026-09-26 05:55:54] [ERROR] Database failed
+[2026-09-26 05:55:58] [ERROR] Authentication failed
+[2026-09-26 05:56:02] [ERROR] Database connection failed
+[2026-09-26 05:56:04] [ERROR] Request processed
+[2026-09-26 05:56:06] [ERROR] Memory usage high
+[2026-09-26 05:56:10] [ERROR] File not found
+[2026-09-26 05:56:12] [ERROR] Database failed
+[2026-09-26 05:56:13] [ERROR] Permission denied
+[2026-09-26 05:56:19] [ERROR] Database connection failed
+[2026-09-26 05:56:20] [ERROR] Service started
+[2026-09-26 05:56:23] [ERROR] Permission denied
+[2026-09-26 05:56:27] [ERROR] Connection reset by peer
+[2026-09-26 05:56:29] [ERROR] Memory usage high
+[2026-09-26 05:56:30] [ERROR] User login successful
+[2026-09-26 05:56:31] [ERROR] Configuration reloaded
+[2026-09-26 05:56:32] [ERROR] Connection reset by peer
+[2026-09-26 05:56:37] [ERROR] Network timeout
+[2026-09-26 05:56:40] [ERROR] Service started
+[2026-09-26 05:56:43] [ERROR] Task completed
+[2026-09-26 05:56:44] [ERROR] Service started
+[2026-09-26 05:56:50] [ERROR] Request processed
+[2026-09-26 05:56:58] [ERROR] Task completed
+[2026-09-26 05:57:03] [ERROR] Disk space low
+[2026-09-26 05:57:05] [ERROR] Network timeout
+[2026-09-26 05:57:08] [ERROR] Cache miss
+[2026-09-26 05:57:17] [ERROR] Cache miss
+[2026-09-26 05:57:19] [ERROR] Authentication failed
+[2026-09-26 05:57:21] [ERROR] Network timeout
+[2026-09-26 05:57:30] [ERROR] Database connection failed
+[2026-09-26 05:57:37] [ERROR] Database failed
+[2026-09-26 05:57:45] [ERROR] Task completed
+[2026-09-26 05:57:54] [ERROR] Connection reset by peer
+[2026-09-26 05:57:55] [ERROR] Request processed
+[2026-09-26 05:58:09] [ERROR] File not found
+[2026-09-26 05:58:10] [ERROR] Network timeout
+[2026-09-26 05:58:14] [ERROR] File not found
+[2026-09-26 05:58:16] [ERROR] Service started
+[2026-09-26 05:58:19] [ERROR] Authentication failed
+[2026-09-26 05:58:22] [ERROR] Configuration reloaded
+[2026-09-26 05:58:24] [ERROR] Database failed
+[2026-09-26 05:58:26] [ERROR] User login successful
+[2026-09-26 05:58:27] [ERROR] Permission denied
+[2026-09-26 05:58:28] [ERROR] Authentication failed
+[2026-09-26 05:58:29] [ERROR] Permission denied
+[2026-09-26 05:58:36] [ERROR] Task completed
+[2026-09-26 05:58:37] [ERROR] Service started
+[2026-09-26 05:58:43] [ERROR] Task completed
+[2026-09-26 05:58:47] [ERROR] Database failed
+[2026-09-26 05:58:57] [ERROR] File not found
+[2026-09-26 05:59:01] [ERROR] Disk space low
+[2026-09-26 05:59:05] [ERROR] Service started
+[2026-09-26 05:59:11] [ERROR] Configuration reloaded
+[2026-09-26 05:59:16] [ERROR] Memory usage high
+[2026-09-26 05:59:18] [ERROR] Configuration reloaded
+[2026-09-26 05:59:19] [ERROR] Cache miss
+[2026-09-26 05:59:20] [ERROR] User login successful
+[2026-09-26 05:59:21] [ERROR] Permission denied
+[2026-09-26 05:59:24] [ERROR] Disk space low
+[2026-09-26 05:59:25] [ERROR] User login successful
+[2026-09-26 05:59:26] [ERROR] Memory usage high
+[2026-09-26 05:59:29] [ERROR] File not found
+[2026-09-26 05:59:36] [ERROR] File not found
+[2026-09-26 05:59:38] [ERROR] Authentication failed
+[2026-09-26 05:59:40] [ERROR] Service started
+[2026-09-26 05:59:41] [ERROR] File not found
+[2026-09-26 05:59:45] [ERROR] Network timeout
+[2026-09-26 05:59:46] [ERROR] Service started
+[2026-09-26 05:59:49] [ERROR] Database failed
+[2026-09-26 05:59:50] [ERROR] Configuration reloaded
+[2026-09-26 05:59:53] [ERROR] Connection reset by peer
+[2026-09-26 05:59:57] [ERROR] Disk space low
+[2026-09-26 05:59:59] [ERROR] Authentication failed
+[2026-09-26 06:00:02] [ERROR] Database failed
+[2026-09-26 06:00:07] [ERROR] Authentication failed
+[2026-09-26 06:00:10] [ERROR] Permission denied
+[2026-09-26 06:00:12] [ERROR] Network timeout
+[2026-09-26 06:00:14] [ERROR] User login successful
+[2026-09-26 06:00:15] [ERROR] Network timeout
+[2026-09-26 06:00:23] [ERROR] User login successful
+[2026-09-26 06:00:27] [ERROR] Task completed
+[2026-09-26 06:00:28] [ERROR] Database connection failed
+[2026-09-26 06:00:38] [ERROR] Request processed
+[2026-09-26 06:01:06] [ERROR] Memory usage high
+[2026-09-26 06:01:08] [ERROR] Database connection failed
+[2026-09-26 06:01:12] [ERROR] Configuration reloaded
+[2026-09-26 06:01:17] [ERROR] Memory usage high
+[2026-09-26 06:01:18] [ERROR] User login successful
+[2026-09-26 06:01:24] [ERROR] Database failed
+[2026-09-26 06:01:27] [ERROR] Connection reset by peer
+[2026-09-26 06:01:32] [ERROR] Permission denied
+[2026-09-26 06:01:44] [ERROR] Configuration reloaded
+[2026-09-26 06:01:58] [ERROR] Network timeout
+[2026-09-26 06:02:04] [ERROR] File not found
+[2026-09-26 06:02:12] [ERROR] Database failed
+[2026-09-26 06:02:14] [ERROR] Service started
+[2026-09-26 06:02:16] [ERROR] User login successful
+[2026-09-26 06:02:24] [ERROR] Cache miss
+[2026-09-26 06:02:28] [ERROR] Task completed
+[2026-09-26 06:02:29] [ERROR] Disk space low
+[2026-09-26 06:02:31] [ERROR] Configuration reloaded
+[2026-09-26 06:02:37] [ERROR] Authentication failed
+[2026-09-26 06:02:38] [ERROR] Configuration reloaded
+[2026-09-26 06:02:39] [ERROR] Disk space low
+[2026-09-26 06:02:41] [ERROR] Configuration reloaded
+[2026-09-26 06:02:50] [ERROR] Connection reset by peer
+[2026-09-26 06:02:51] [ERROR] Authentication failed
+[2026-09-26 06:02:52] [ERROR] File not found
+[2026-09-26 06:02:54] [ERROR] Database connection failed
+[2026-09-26 06:02:57] [ERROR] Permission denied
+[2026-09-26 06:03:00] [ERROR] Database failed
+[2026-09-26 06:03:01] [ERROR] Task completed
+[2026-09-26 06:03:03] [ERROR] Connection reset by peer
+[2026-09-26 06:03:05] [ERROR] Disk space low
+[2026-09-26 06:03:07] [ERROR] Request processed
+[2026-09-26 06:03:11] [ERROR] Database connection failed
+[2026-09-26 06:03:12] [ERROR] Database failed
+[2026-09-26 06:03:18] [ERROR] Request processed
+[2026-09-26 06:03:20] [ERROR] Cache miss
+[2026-09-26 06:03:22] [ERROR] Network timeout
+[2026-09-26 06:03:23] [ERROR] Request processed
+[2026-09-26 06:03:24] [ERROR] Service started
+[2026-09-26 06:03:32] [ERROR] File not found
+[2026-09-26 06:03:35] [ERROR] Service started
+[2026-09-26 06:03:40] [ERROR] Service started
+[2026-09-26 06:03:43] [ERROR] Task completed
+[2026-09-26 06:03:48] [ERROR] Task completed
+[2026-09-26 06:03:53] [ERROR] Network timeout
+[2026-09-26 06:03:57] [ERROR] Cache miss
+[2026-09-26 06:03:58] [ERROR] Permission denied
+[2026-09-26 06:04:02] [ERROR] Cache miss
+[2026-09-26 06:04:08] [ERROR] Connection reset by peer
+[2026-09-26 06:04:11] [ERROR] Configuration reloaded
+[2026-09-26 06:04:36] [ERROR] Database failed
+[2026-09-26 06:04:37] [ERROR] Connection reset by peer
+[2026-09-26 06:04:39] [ERROR] Service started
+[2026-09-26 06:04:47] [ERROR] Database failed
+[2026-09-26 06:04:55] [ERROR] Disk space low
+[2026-09-26 06:04:56] [ERROR] Task completed
+[2026-09-26 06:04:57] [ERROR] Service started
+[2026-09-26 06:04:59] [ERROR] Memory usage high
+[2026-09-26 06:05:02] [ERROR] Network timeout
+[2026-09-26 06:05:06] [ERROR] Disk space low
+[2026-09-26 06:05:10] [ERROR] Network timeout
+[2026-09-26 06:05:13] [ERROR] Authentication failed
+[2026-09-26 06:05:20] [ERROR] Configuration reloaded
+[2026-09-26 06:05:22] [ERROR] User login successful
+[2026-09-26 06:05:24] [ERROR] Cache miss
+[2026-09-26 06:05:36] [ERROR] User login successful
+[2026-09-26 06:05:37] [ERROR] User login successful
+[2026-09-26 06:05:38] [ERROR] Authentication failed
+[2026-09-26 06:05:39] [ERROR] Disk space low
+[2026-09-26 06:05:47] [ERROR] Task completed
+[2026-09-26 06:05:50] [ERROR] Permission denied
+[2026-09-26 06:05:51] [ERROR] Task completed
+[2026-09-26 06:05:53] [ERROR] Memory usage high
+[2026-09-26 06:05:54] [ERROR] File not found
+[2026-09-26 06:06:09] [ERROR] Authentication failed
+[2026-09-26 06:06:16] [ERROR] Authentication failed
+[2026-09-26 06:06:17] [ERROR] User login successful
+[2026-09-26 06:06:19] [ERROR] Memory usage high
+[2026-09-26 06:06:21] [ERROR] Task completed
+[2026-09-26 06:06:25] [ERROR] Connection reset by peer
+[2026-09-26 06:06:28] [ERROR] Task completed
+[2026-09-26 06:06:35] [ERROR] Authentication failed
+[2026-09-26 06:06:43] [ERROR] Service started
+[2026-09-26 06:06:47] [ERROR] Request processed
+[2026-09-26 06:06:52] [ERROR] Memory usage high
+[2026-09-26 06:06:54] [ERROR] User login successful
+[2026-09-26 06:06:56] [ERROR] Task completed
+[2026-09-26 06:07:01] [ERROR] Request processed
+[2026-09-26 06:07:18] [ERROR] Configuration reloaded
+[2026-09-26 06:07:22] [ERROR] Database failed
+[2026-09-26 06:07:32] [ERROR] Service started
+[2026-09-26 06:07:34] [ERROR] Database connection failed
+[2026-09-26 06:07:39] [ERROR] User login successful
+[2026-09-26 06:07:44] [ERROR] Network timeout
+[2026-09-26 06:07:45] [ERROR] Memory usage high
+[2026-09-26 06:07:46] [ERROR] Service started
+[2026-09-26 06:07:48] [ERROR] Cache miss
+[2026-09-26 06:07:51] [ERROR] Request processed
+[2026-09-26 06:07:56] [ERROR] Network timeout
+[2026-09-26 06:08:01] [ERROR] Connection reset by peer
+[2026-09-26 06:08:02] [ERROR] Request processed
+[2026-09-26 06:08:05] [ERROR] Disk space low
+[2026-09-26 06:08:07] [ERROR] Task completed
+[2026-09-26 06:08:08] [ERROR] Service started
+[2026-09-26 06:08:11] [ERROR] Task completed
+[2026-09-26 06:08:15] [ERROR] Database failed
+[2026-09-26 06:08:20] [ERROR] Authentication failed
+[2026-09-26 06:08:24] [ERROR] Authentication failed
+[2026-09-26 06:08:26] [ERROR] Task completed
+[2026-09-26 06:08:30] [ERROR] User login successful
+[2026-09-26 06:08:31] [ERROR] Request processed
+[2026-09-26 06:08:32] [ERROR] Database connection failed
+[2026-09-26 06:08:33] [ERROR] Task completed
+[2026-09-26 06:08:35] [ERROR] Service started
+[2026-09-26 06:08:40] [ERROR] Configuration reloaded
+[2026-09-26 06:08:48] [ERROR] Network timeout
+[2026-09-26 06:08:50] [ERROR] Task completed
+[2026-09-26 06:09:00] [ERROR] Authentication failed
+[2026-09-26 06:09:01] [ERROR] Memory usage high
+[2026-09-26 06:09:04] [ERROR] Permission denied
+[2026-09-26 06:09:12] [ERROR] Cache miss
+[2026-09-26 06:09:21] [ERROR] Permission denied
+[2026-09-26 06:09:24] [ERROR] Authentication failed
+[2026-09-26 06:09:26] [ERROR] Service started
+[2026-09-26 06:09:28] [ERROR] Authentication failed
+[2026-09-26 06:09:31] [ERROR] Database failed
+[2026-09-26 06:09:34] [ERROR] File not found
+[2026-09-26 06:09:37] [ERROR] Cache miss
+[2026-09-26 06:09:38] [ERROR] Cache miss
+[2026-09-26 06:09:43] [ERROR] Authentication failed
+[2026-09-26 06:09:44] [ERROR] Memory usage high
+[2026-09-26 06:09:46] [ERROR] Request processed
+[2026-09-26 06:09:48] [ERROR] Cache miss
+[2026-09-26 06:09:49] [ERROR] Authentication failed
+[2026-09-26 06:09:55] [ERROR] Request processed
+[2026-09-26 06:09:56] [ERROR] Database failed
+[2026-09-26 06:10:02] [ERROR] Authentication failed
+[2026-09-26 06:10:05] [ERROR] Disk space low
+[2026-09-26 06:10:16] [ERROR] Connection reset by peer
+[2026-09-26 06:10:21] [ERROR] File not found
+[2026-09-26 06:10:23] [ERROR] Request processed
+[2026-09-26 06:10:24] [ERROR] User login successful
+[2026-09-26 06:10:27] [ERROR] Service started
+[2026-09-26 06:10:31] [ERROR] User login successful
+[2026-09-26 06:10:37] [ERROR] Task completed
+[2026-09-26 06:10:44] [ERROR] Service started
+[2026-09-26 06:10:47] [ERROR] Task completed
+[2026-09-26 06:10:52] [ERROR] Cache miss
+[2026-09-26 06:10:57] [ERROR] Connection reset by peer
+[2026-09-26 06:10:59] [ERROR] Database connection failed
+[2026-09-26 06:11:01] [ERROR] Database connection failed
+[2026-09-26 06:11:10] [ERROR] Configuration reloaded
+[2026-09-26 06:11:12] [ERROR] Network timeout
+[2026-09-26 06:11:23] [ERROR] Database failed
+[2026-09-26 06:11:27] [ERROR] File not found
+[2026-09-26 06:11:30] [ERROR] Task completed
+[2026-09-26 06:11:35] [ERROR] Connection reset by peer
+[2026-09-26 06:11:37] [ERROR] Authentication failed
+[2026-09-26 06:11:38] [ERROR] Authentication failed
+[2026-09-26 06:11:46] [ERROR] Disk space low
+[2026-09-26 06:11:47] [ERROR] Cache miss
+[2026-09-26 06:11:51] [ERROR] Disk space low
+[2026-09-26 06:11:58] [ERROR] Service started
+[2026-09-26 06:12:02] [ERROR] Disk space low
+[2026-09-26 06:12:05] [ERROR] Permission denied
+[2026-09-26 06:12:11] [ERROR] Permission denied
+[2026-09-26 06:12:12] [ERROR] Memory usage high
+[2026-09-26 06:12:15] [ERROR] Request processed
+[2026-09-26 06:12:18] [ERROR] Memory usage high
+[2026-09-26 06:12:22] [ERROR] Permission denied
+[2026-09-26 06:12:23] [ERROR] File not found
+[2026-09-26 06:12:25] [ERROR] Disk space low
+[2026-09-26 06:12:28] [ERROR] User login successful
+[2026-09-26 06:12:30] [ERROR] Service started
+[2026-09-26 06:12:32] [ERROR] File not found
+[2026-09-26 06:12:33] [ERROR] User login successful
+[2026-09-26 06:12:34] [ERROR] File not found
+[2026-09-26 06:12:36] [ERROR] User login successful
+[2026-09-26 06:12:39] [ERROR] File not found
+[2026-09-26 06:12:40] [ERROR] Cache miss
+[2026-09-26 06:12:44] [ERROR] Network timeout
+[2026-09-26 06:12:49] [ERROR] Connection reset by peer
+[2026-09-26 06:12:55] [ERROR] Connection reset by peer
+[2026-09-26 06:12:56] [ERROR] Task completed
+[2026-09-26 06:12:57] [ERROR] Memory usage high
+[2026-09-26 06:12:58] [ERROR] Task completed
+[2026-09-26 06:13:03] [ERROR] Cache miss
+[2026-09-26 06:13:14] [ERROR] User login successful
+[2026-09-26 06:13:15] [ERROR] Database connection failed
+[2026-09-26 06:13:17] [ERROR] Memory usage high
+[2026-09-26 06:13:23] [ERROR] User login successful
+[2026-09-26 06:13:26] [ERROR] Disk space low
+[2026-09-26 06:13:27] [ERROR] Database connection failed
+[2026-09-26 06:13:34] [ERROR] Request processed
+[2026-09-26 06:13:36] [ERROR] File not found
+[2026-09-26 06:13:37] [ERROR] Cache miss
+[2026-09-26 06:13:58] [ERROR] Request processed
+[2026-09-26 06:13:59] [ERROR] Memory usage high
+[2026-09-26 06:14:02] [ERROR] Authentication failed
+[2026-09-26 06:14:19] [ERROR] Connection reset by peer
+[2026-09-26 06:14:20] [ERROR] Database failed
+[2026-09-26 06:14:24] [ERROR] Database connection failed
+[2026-09-26 06:14:25] [ERROR] Network timeout
+[2026-09-26 06:14:27] [ERROR] Authentication failed
+[2026-09-26 06:14:32] [ERROR] Request processed
+[2026-09-26 06:14:34] [ERROR] Permission denied
+[2026-09-26 06:14:41] [ERROR] File not found
+[2026-09-26 06:14:46] [ERROR] Memory usage high
+[2026-09-26 06:14:52] [ERROR] Database connection failed
+[2026-09-26 06:14:56] [ERROR] Database connection failed
+[2026-09-26 06:14:57] [ERROR] Cache miss
+[2026-09-26 06:15:02] [ERROR] Request processed
+[2026-09-26 06:15:03] [ERROR] Database connection failed
+[2026-09-26 06:15:27] [ERROR] Request processed
+[2026-09-26 06:15:31] [ERROR] Task completed
+[2026-09-26 06:15:34] [ERROR] Connection reset by peer
+[2026-09-26 06:15:36] [ERROR] Connection reset by peer
+[2026-09-26 06:15:38] [ERROR] Authentication failed
+[2026-09-26 06:15:43] [ERROR] Disk space low
+[2026-09-26 06:15:45] [ERROR] Task completed
+[2026-09-26 06:15:46] [ERROR] Memory usage high
+[2026-09-26 06:15:54] [ERROR] Permission denied
+[2026-09-26 06:15:55] [ERROR] Service started
+[2026-09-26 06:16:02] [ERROR] File not found
+[2026-09-26 06:16:03] [ERROR] Request processed
+[2026-09-26 06:16:04] [ERROR] Permission denied
+[2026-09-26 06:16:07] [ERROR] Request processed
+[2026-09-26 06:16:18] [ERROR] Service started
+[2026-09-26 06:16:20] [ERROR] Memory usage high
+[2026-09-26 06:16:21] [ERROR] Task completed
+[2026-09-26 06:16:24] [ERROR] Cache miss
+[2026-09-26 06:16:27] [ERROR] Network timeout
+[2026-09-26 06:16:29] [ERROR] User login successful
+[2026-09-26 06:16:30] [ERROR] Disk space low
+[2026-09-26 06:16:31] [ERROR] Request processed
+[2026-09-26 06:16:45] [ERROR] Cache miss
+[2026-09-26 06:16:46] [ERROR] Permission denied
+[2026-09-26 06:16:48] [ERROR] Network timeout
+[2026-09-26 06:16:56] [ERROR] Permission denied
+[2026-09-26 06:16:57] [ERROR] Authentication failed
+[2026-09-26 06:17:00] [ERROR] Service started
+[2026-09-26 06:17:08] [ERROR] Disk space low
+[2026-09-26 06:17:13] [ERROR] Permission denied
+[2026-09-26 06:17:19] [ERROR] Connection reset by peer
+[2026-09-26 06:17:20] [ERROR] Service started
+[2026-09-26 06:17:21] [ERROR] Permission denied
+[2026-09-26 06:17:22] [ERROR] Database connection failed
+[2026-09-26 06:17:27] [ERROR] Task completed
+[2026-09-26 06:17:29] [ERROR] Network timeout
+[2026-09-26 06:17:30] [ERROR] Database connection failed
+[2026-09-26 06:17:34] [ERROR] Configuration reloaded
+[2026-09-26 06:17:37] [ERROR] Configuration reloaded
+[2026-09-26 06:17:45] [ERROR] Memory usage high
+[2026-09-26 06:17:48] [ERROR] Configuration reloaded
+[2026-09-26 06:17:49] [ERROR] File not found
+[2026-09-26 06:17:51] [ERROR] Network timeout
+[2026-09-26 06:17:53] [ERROR] Database connection failed
+[2026-09-26 06:17:55] [ERROR] Database connection failed
+[2026-09-26 06:17:57] [ERROR] Request processed
+[2026-09-26 06:18:00] [ERROR] Permission denied
+[2026-09-26 06:18:04] [ERROR] Permission denied
+[2026-09-26 06:18:11] [ERROR] Task completed
+[2026-09-26 06:18:14] [ERROR] Configuration reloaded
+[2026-09-26 06:18:16] [ERROR] Database connection failed
+[2026-09-26 06:18:19] [ERROR] Authentication failed
+[2026-09-26 06:18:21] [ERROR] Task completed
+[2026-09-26 06:18:34] [ERROR] Network timeout
+[2026-09-26 06:18:37] [ERROR] Request processed
+[2026-09-26 06:18:38] [ERROR] File not found
+[2026-09-26 06:18:39] [ERROR] Service started
+[2026-09-26 06:18:41] [ERROR] File not found
+[2026-09-26 06:18:43] [ERROR] Network timeout
+[2026-09-26 06:18:45] [ERROR] Memory usage high
+[2026-09-26 06:18:46] [ERROR] Database failed
+[2026-09-26 06:18:48] [ERROR] Permission denied
+[2026-09-26 06:18:55] [ERROR] Task completed
+[2026-09-26 06:18:57] [ERROR] Service started
+[2026-09-26 06:19:03] [ERROR] Permission denied
+[2026-09-26 06:19:07] [ERROR] Network timeout
+[2026-09-26 06:19:09] [ERROR] Cache miss
+[2026-09-26 06:19:15] [ERROR] Authentication failed
+[2026-09-26 06:19:18] [ERROR] Database connection failed
+[2026-09-26 06:19:21] [ERROR] Configuration reloaded
+[2026-09-26 06:19:24] [ERROR] Connection reset by peer
+[2026-09-26 06:19:25] [ERROR] Configuration reloaded
+[2026-09-26 06:19:28] [ERROR] User login successful
+[2026-09-26 06:19:30] [ERROR] Connection reset by peer
+[2026-09-26 06:19:33] [ERROR] Database connection failed
+[2026-09-26 06:19:35] [ERROR] Configuration reloaded
+[2026-09-26 06:19:39] [ERROR] Network timeout
+[2026-09-26 06:19:40] [ERROR] Connection reset by peer
+[2026-09-26 06:19:46] [ERROR] Disk space low
+[2026-09-26 06:19:47] [ERROR] Connection reset by peer
+[2026-09-26 06:19:49] [ERROR] Database connection failed
+[2026-09-26 06:19:51] [ERROR] Database failed
+[2026-09-26 06:19:56] [ERROR] Request processed
+[2026-09-26 06:19:59] [ERROR] Memory usage high
+[2026-09-26 06:20:01] [ERROR] Configuration reloaded
+[2026-09-26 06:20:03] [ERROR] Database connection failed
+[2026-09-26 06:20:16] [ERROR] Configuration reloaded
+[2026-09-26 06:20:27] [ERROR] Permission denied
+[2026-09-26 06:20:29] [ERROR] Authentication failed
+[2026-09-26 06:20:32] [ERROR] Database failed
+[2026-09-26 06:20:36] [ERROR] Memory usage high
+[2026-09-26 06:20:38] [ERROR] User login successful
+[2026-09-26 06:20:41] [ERROR] Network timeout
+[2026-09-26 06:20:44] [ERROR] Task completed
+[2026-09-26 06:20:50] [ERROR] Authentication failed
+[2026-09-26 06:20:52] [ERROR] Task completed
+[2026-09-26 06:20:57] [ERROR] Request processed
+[2026-09-26 06:21:00] [ERROR] Memory usage high
+[2026-09-26 06:21:07] [ERROR] Task completed
+[2026-09-26 06:21:09] [ERROR] Disk space low
+[2026-09-26 06:21:12] [ERROR] Database connection failed
+[2026-09-26 06:21:20] [ERROR] Network timeout
+[2026-09-26 06:21:23] [ERROR] User login successful
+[2026-09-26 06:21:45] [ERROR] Task completed
+[2026-09-26 06:21:49] [ERROR] Task completed
+[2026-09-26 06:21:51] [ERROR] Task completed
+[2026-09-26 06:21:55] [ERROR] Database connection failed
+[2026-09-26 06:22:03] [ERROR] Task completed
+[2026-09-26 06:22:04] [ERROR] Cache miss
+[2026-09-26 06:22:05] [ERROR] User login successful
+[2026-09-26 06:22:09] [ERROR] Database connection failed
+[2026-09-26 06:22:13] [ERROR] File not found
+[2026-09-26 06:22:18] [ERROR] Disk space low
+[2026-09-26 06:22:19] [ERROR] Configuration reloaded
+[2026-09-26 06:22:20] [ERROR] Database connection failed
+[2026-09-26 06:22:22] [ERROR] Memory usage high
+[2026-09-26 06:22:25] [ERROR] Permission denied
+[2026-09-26 06:22:29] [ERROR] Database connection failed
+[2026-09-26 06:22:31] [ERROR] File not found
+[2026-09-26 06:22:37] [ERROR] Database connection failed
+[2026-09-26 06:22:40] [ERROR] Connection reset by peer
+[2026-09-26 06:22:46] [ERROR] Memory usage high
+[2026-09-26 06:22:52] [ERROR] Service started
+[2026-09-26 06:22:56] [ERROR] Configuration reloaded
+[2026-09-26 06:23:00] [ERROR] Memory usage high
+[2026-09-26 06:23:02] [ERROR] Request processed
+[2026-09-26 06:23:03] [ERROR] Connection reset by peer
+[2026-09-26 06:23:05] [ERROR] User login successful
+[2026-09-26 06:23:07] [ERROR] Memory usage high
+[2026-09-26 06:23:13] [ERROR] Database failed
+[2026-09-26 06:23:14] [ERROR] Configuration reloaded
+[2026-09-26 06:23:15] [ERROR] Database connection failed
+[2026-09-26 06:23:16] [ERROR] Disk space low
+[2026-09-26 06:23:33] [ERROR] Task completed
+[2026-09-26 06:23:38] [ERROR] Configuration reloaded
+[2026-09-26 06:23:40] [ERROR] Database failed
+[2026-09-26 06:23:42] [ERROR] Database failed
+[2026-09-26 06:23:43] [ERROR] Permission denied
+[2026-09-26 06:23:45] [ERROR] Task completed
+[2026-09-26 06:23:46] [ERROR] Disk space low
+[2026-09-26 06:23:47] [ERROR] Configuration reloaded
+[2026-09-26 06:23:56] [ERROR] Permission denied
+[2026-09-26 06:23:57] [ERROR] Database failed
+[2026-09-26 06:24:01] [ERROR] Request processed
+[2026-09-26 06:24:03] [ERROR] Database connection failed
+[2026-09-26 06:24:07] [ERROR] File not found
+[2026-09-26 06:24:08] [ERROR] Service started
+[2026-09-26 06:24:14] [ERROR] Cache miss
+[2026-09-26 06:24:16] [ERROR] Disk space low
+[2026-09-26 06:24:17] [ERROR] Authentication failed
+[2026-09-26 06:24:19] [ERROR] Database failed
+[2026-09-26 06:24:34] [ERROR] Request processed
+[2026-09-26 06:24:41] [ERROR] Disk space low
+[2026-09-26 06:24:50] [ERROR] Database failed
+[2026-09-26 06:24:54] [ERROR] Configuration reloaded
+[2026-09-26 06:24:57] [ERROR] Database connection failed
+[2026-09-26 06:25:03] [ERROR] Network timeout
+[2026-09-26 06:25:05] [ERROR] Memory usage high
+[2026-09-26 06:25:10] [ERROR] Authentication failed
+[2026-09-26 06:25:12] [ERROR] Cache miss
+[2026-09-26 06:25:13] [ERROR] Cache miss
+[2026-09-26 06:25:17] [ERROR] Request processed
+[2026-09-26 06:25:22] [ERROR] Task completed
+[2026-09-26 06:25:28] [ERROR] Connection reset by peer
+[2026-09-26 06:25:52] [ERROR] User login successful
+[2026-09-26 06:25:55] [ERROR] Memory usage high
+[2026-09-26 06:25:57] [ERROR] Authentication failed
+[2026-09-26 06:25:59] [ERROR] Database failed
+[2026-09-26 06:26:00] [ERROR] Service started
+[2026-09-26 06:26:03] [ERROR] Task completed
+[2026-09-26 06:26:12] [ERROR] User login successful
+[2026-09-26 06:26:18] [ERROR] Database connection failed
+[2026-09-26 06:26:22] [ERROR] Network timeout
+[2026-09-26 06:26:30] [ERROR] Disk space low
+[2026-09-26 06:26:34] [ERROR] File not found
+[2026-09-26 06:26:35] [ERROR] Disk space low
+[2026-09-26 06:26:40] [ERROR] Request processed
+[2026-09-26 06:26:41] [ERROR] Cache miss
+[2026-09-26 06:26:47] [ERROR] Network timeout
+[2026-09-26 06:26:50] [ERROR] Task completed
+[2026-09-26 06:26:52] [ERROR] Configuration reloaded
+[2026-09-26 06:26:55] [ERROR] Cache miss
+[2026-09-26 06:27:02] [ERROR] Permission denied
+[2026-09-26 06:27:05] [ERROR] Memory usage high
+[2026-09-26 06:27:07] [ERROR] Network timeout
+[2026-09-26 06:27:09] [ERROR] Permission denied
+[2026-09-26 06:27:10] [ERROR] File not found
+[2026-09-26 06:27:14] [ERROR] File not found
+[2026-09-26 06:27:15] [ERROR] Disk space low
+[2026-09-26 06:27:16] [ERROR] Connection reset by peer
+[2026-09-26 06:27:25] [ERROR] Database failed
+[2026-09-26 06:27:27] [ERROR] Database connection failed
+[2026-09-26 06:27:34] [ERROR] Connection reset by peer
+[2026-09-26 06:27:36] [ERROR] Cache miss
+[2026-09-26 06:27:37] [ERROR] Permission denied
+[2026-09-26 06:27:40] [ERROR] Network timeout
+[2026-09-26 06:27:41] [ERROR] Cache miss
+[2026-09-26 06:27:43] [ERROR] Authentication failed
+[2026-09-26 06:27:58] [ERROR] Disk space low
+[2026-09-26 06:28:04] [ERROR] Database failed
+[2026-09-26 06:28:06] [ERROR] Disk space low
+[2026-09-26 06:28:07] [ERROR] Network timeout
+[2026-09-26 06:28:11] [ERROR] Request processed
+[2026-09-26 06:28:15] [ERROR] Database failed
+[2026-09-26 06:28:17] [ERROR] Memory usage high
+[2026-09-26 06:28:19] [ERROR] Configuration reloaded
+[2026-09-26 06:28:31] [ERROR] Task completed
+[2026-09-26 06:28:33] [ERROR] Network timeout
+[2026-09-26 06:28:34] [ERROR] Authentication failed
+[2026-09-26 06:28:38] [ERROR] Authentication failed
+[2026-09-26 06:28:50] [ERROR] Configuration reloaded
+[2026-09-26 06:28:51] [ERROR] User login successful
+[2026-09-26 06:28:59] [ERROR] Connection reset by peer
+[2026-09-26 06:29:03] [ERROR] Network timeout
+[2026-09-26 06:29:09] [ERROR] Request processed
+[2026-09-26 06:29:14] [ERROR] Service started
+[2026-09-26 06:29:18] [ERROR] Connection reset by peer
+[2026-09-26 06:29:19] [ERROR] Permission denied
+[2026-09-26 06:29:22] [ERROR] Configuration reloaded
+[2026-09-26 06:29:23] [ERROR] Task completed
+[2026-09-26 06:29:30] [ERROR] Configuration reloaded
+[2026-09-26 06:29:34] [ERROR] Connection reset by peer
+[2026-09-26 06:29:35] [ERROR] Configuration reloaded
+[2026-09-26 06:29:43] [ERROR] Authentication failed
+[2026-09-26 06:29:44] [ERROR] File not found
+[2026-09-26 06:29:48] [ERROR] Authentication failed
+[2026-09-26 06:29:49] [ERROR] User login successful
+[2026-09-26 06:29:52] [ERROR] Permission denied
+[2026-09-26 06:29:53] [ERROR] Disk space low
+[2026-09-26 06:29:56] [ERROR] File not found
+[2026-09-26 06:30:02] [ERROR] File not found
+[2026-09-26 06:30:06] [ERROR] Service started
+[2026-09-26 06:30:10] [ERROR] Network timeout
+[2026-09-26 06:30:12] [ERROR] Database failed
+[2026-09-26 06:30:15] [ERROR] Authentication failed
+[2026-09-26 06:30:19] [ERROR] Task completed
+[2026-09-26 06:30:21] [ERROR] Database connection failed
+[2026-09-26 06:30:23] [ERROR] Database connection failed
+[2026-09-26 06:30:25] [ERROR] Database connection failed
+[2026-09-26 06:30:27] [ERROR] Authentication failed
+[2026-09-26 06:30:28] [ERROR] Service started
+[2026-09-26 06:30:31] [ERROR] Service started
+[2026-09-26 06:30:39] [ERROR] Disk space low
+[2026-09-26 06:30:40] [ERROR] User login successful
+[2026-09-26 06:30:45] [ERROR] Request processed
+[2026-09-26 06:30:53] [ERROR] Task completed
+[2026-09-26 06:30:54] [ERROR] Configuration reloaded
+[2026-09-26 06:30:58] [ERROR] Database connection failed
+[2026-09-26 06:31:03] [ERROR] Cache miss
+[2026-09-26 06:31:08] [ERROR] Service started
+[2026-09-26 06:31:10] [ERROR] Connection reset by peer
+[2026-09-26 06:31:13] [ERROR] Cache miss
+[2026-09-26 06:31:15] [ERROR] Request processed
+[2026-09-26 06:31:16] [ERROR] Service started
+[2026-09-26 06:31:19] [ERROR] Authentication failed
+[2026-09-26 06:31:24] [ERROR] Memory usage high
+[2026-09-26 06:31:36] [ERROR] Database connection failed
+[2026-09-26 06:31:37] [ERROR] Database connection failed
+[2026-09-26 06:31:39] [ERROR] Authentication failed
+[2026-09-26 06:31:43] [ERROR] Network timeout
+[2026-09-26 06:31:44] [ERROR] Network timeout
+[2026-09-26 06:31:46] [ERROR] Database failed
+[2026-09-26 06:31:49] [ERROR] Disk space low
+[2026-09-26 06:31:51] [ERROR] Network timeout
+[2026-09-26 06:31:56] [ERROR] Database failed
+[2026-09-26 06:32:00] [ERROR] Cache miss
+[2026-09-26 06:32:05] [ERROR] Task completed
+[2026-09-26 06:32:06] [ERROR] Authentication failed
+[2026-09-26 06:32:11] [ERROR] Authentication failed
+[2026-09-26 06:32:15] [ERROR] Permission denied
+[2026-09-26 06:32:23] [ERROR] Task completed
+[2026-09-26 06:32:24] [ERROR] Task completed
+[2026-09-26 06:32:26] [ERROR] Database failed
+[2026-09-26 06:32:31] [ERROR] Connection reset by peer
+[2026-09-26 06:32:35] [ERROR] Cache miss
+[2026-09-26 06:32:41] [ERROR] Task completed
+[2026-09-26 06:32:47] [ERROR] Request processed
+[2026-09-26 06:32:49] [ERROR] Configuration reloaded
+[2026-09-26 06:32:53] [ERROR] Service started
+[2026-09-26 06:32:55] [ERROR] Connection reset by peer
+[2026-09-26 06:33:01] [ERROR] Authentication failed
+[2026-09-26 06:33:02] [ERROR] Configuration reloaded
+[2026-09-26 06:33:04] [ERROR] Database connection failed
+[2026-09-26 06:33:05] [ERROR] Database failed
+[2026-09-26 06:33:10] [ERROR] Permission denied
+[2026-09-26 06:33:13] [ERROR] Disk space low
+[2026-09-26 06:33:15] [ERROR] Request processed
+[2026-09-26 06:33:21] [ERROR] Authentication failed
+[2026-09-26 06:33:27] [ERROR] Network timeout
+[2026-09-26 06:33:28] [ERROR] Permission denied
+[2026-09-26 06:33:30] [ERROR] Database connection failed
+[2026-09-26 06:33:31] [ERROR] Disk space low
+[2026-09-26 06:33:35] [ERROR] Request processed
+[2026-09-26 06:33:42] [ERROR] File not found
+[2026-09-26 06:33:44] [ERROR] Cache miss
+[2026-09-26 06:33:45] [ERROR] File not found
+[2026-09-26 06:33:53] [ERROR] Cache miss
+[2026-09-26 06:33:54] [ERROR] Task completed
+[2026-09-26 06:33:55] [ERROR] Cache miss
+[2026-09-26 06:34:02] [ERROR] Service started
+[2026-09-26 06:34:05] [ERROR] File not found
+[2026-09-26 06:34:06] [ERROR] Authentication failed
