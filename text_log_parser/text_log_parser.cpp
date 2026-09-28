@@ -38,7 +38,7 @@ LogLevel stringToLevel(const std::string& level)
     {
         return LogLevel::INFO;
     }
-    else{
+    else if(level=="UNKNOWN"){
         return LogLevel::UNKNOWN;
     }
 }
